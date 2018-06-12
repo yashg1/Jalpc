@@ -1,22 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Cooling smartphones using Phase Change Materials
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: MS thesis project with Prof Amy Marconnet in joint partnership with Qualcomm at the Cooling Technologies Research Center at Purdue University
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: SAE BAJA
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Made an All-terrain vehicle (ATV)
 
-- name: Google
-  i18n: google
+- name: CFD
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Did CFD
