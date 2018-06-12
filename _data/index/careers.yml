@@ -4,7 +4,7 @@
     detail: Syscon International, South Bend, Indiana - USA
     i18n: company_a
   desc:
-    detail: Develop temperature measurement probes and thermal analysis systems for Iron & Steel industry
+    detail: Develop temperature measurement and analysis systems for the Iron & Steel industry
     i18n: company_a_desc
   date:
     detail: January 2017 - Present
@@ -12,7 +12,7 @@
   job:
     detail: Product Engineer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-plus-square fa-sm
 
 - name:
     detail:  Purdue University, West Lafayette, USA
