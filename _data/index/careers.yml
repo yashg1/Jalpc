@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Syscon International
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: January 2017 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Product Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Purdue University
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Thesis Research: Cooling smartphones using Phase Change Materials
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: August 2014 - December 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: MS in Mechanical Engineering (minor: Computational Science)
     i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Vellore Institute of Technology, Chennai, India
+    i18n: company_c
+  desc:
+    detail: SAE BAJA
+    i18n: company_c_desc
+  date:
+    detail: August 2010 - June 2014
+    i18n: company_c_date
+  job:
+    detail: BS in Mechanical Engineering
+    i18n: company_c_job
   icon: fa-plus-square
