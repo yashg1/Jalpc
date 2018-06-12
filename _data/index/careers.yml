@@ -4,7 +4,7 @@
     detail: Syscon International
     i18n: company_a
   desc:
-    detail: 
+    detail:
     i18n: company_a_desc
   date:
     detail: January 2017 - Present
@@ -18,7 +18,7 @@
     detail: Purdue University
     i18n: company_b
   desc:
-    detail: Thesis Research: Cooling smartphones using Phase Change Materials
+    detail: Thesis Research - Cooling smartphones using Phase Change Materials
     i18n: company_b_desc
   date:
     detail: August 2014 - December 2016
@@ -27,7 +27,7 @@
     detail: MS in Mechanical Engineering (minor: Computational Science)
     i18n: company_b_job
   icon: fa-plus-square
-  
+
   - name:
     detail: Vellore Institute of Technology, Chennai, India
     i18n: company_c
