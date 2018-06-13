@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Yash
+title: Yash Ganatra portfolio
 description: Yash's blog
-keywords: yash,yashg1, blog,Jekyll,github,gh-pages
+keywords: yash,yashganatra, yashg1, blog,Jekyll,github,gh-pages
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://yashg1.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -26,8 +26,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-cogs
     - name: fa-industry
-  desc: "Persevering mechanical engineer who enjoys turning designs into products through efficient collaboration and programming.
-        I love managing heat - currently, I develop products to measure heat by converting it into electrical signals (thermocouples).
+  desc: |
+        "Persevering mechanical engineer who enjoys turning designs into products through efficient collaboration and programming. I love managing heat - currently, I develop products to measure heat by converting it into electrical signals (thermocouples).
         Previously, I worked on cooling smartphones and storing solar energy. In my free time, I learn Machine Learning and new languages (currently learning Mandarin: HSK Level 2). \n
         Also, I helped build my university's first SAE BAJA car in 2013"
 
