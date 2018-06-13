@@ -26,7 +26,7 @@
   job:
     detail: MS in Mechanical Engineering (minor - Computational Science)
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-user-graduate
 
 - name:
     detail: Vellore Institute of Technology, Chennai, India
