@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: CAE, Mechanical/Thermal Design,CFD/FEA simulations (ANSYS/FLUENT/COMSOL),MATLAB,Hardware Testing
-percentage: 80,70,90,80,70,70
+aspects: CAE, Thermal design, Mechanical Design, ANSYS/FLUENT, COMSOL, MATLAB, Product Development, Technical Support, SoildWorks CAD
+percentage: 80,80,70,90,90,80,70,85,75
