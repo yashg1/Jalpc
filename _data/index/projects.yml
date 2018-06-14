@@ -5,11 +5,26 @@
   img: /static/assets/img/landing/jekyll.png
   desc: MS thesis project with Prof Amy Marconnet in joint partnership with Qualcomm at the Cooling Technologies Research Center at Purdue University
 
-- name: SAE BAJA
+- name: Build a Car for SAE BAJA
   img: /static/assets/img/landing/python.png
   desc: Made an All-terrain vehicle (ATV)
 
-- name: CFD
+- name: CFD simulation of Electromagnetic stirrer in ANSYS FLUENT
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: Did CFD
+
+- name: CFD simulation of Solar Thermal Energy storage system in ANSYS FLUENT
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: Did CFD
+
+- name: CFD simulation of Electromagnetic stirring of liquid metals in ANSYS FLUENT
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: Did CFD
+
+- name: Effect of micro/nano scale hotspots in PCB in COMSOL
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: Did CFD
