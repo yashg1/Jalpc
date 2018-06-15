@@ -18,9 +18,9 @@ Course: MS Thesis Research
 Phones keep getting more powerful and smaller in size. For reliable operation, the
  The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) have
 
-<p style ="text-align:center;">
-  <img width= 70% alt = "Computing power increased by about 2x in 5 years" src="/static/assets/img/blog/msthesis/intro_watch.jpg">
-</p>
+ <p align="center">
+   <img width= 50% alt = "Computing power increased by about 2x in 5 years" src="/static/assets/img/blog/msthesis/intro_watch.jpg">
+ </p>
 
 $$
 \begin{align*}
