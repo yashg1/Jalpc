@@ -19,7 +19,8 @@ Electronic devices keep getting more powerful and smaller in size. The temperatu
 
  <img width="55%" alt = "Computing power increased by 2x in 5 years" src="/static/assets/img/blog/msthesis/intro_watch.jpg">
 
-## Why Phase Change Materials?
-Cooling a mobile phone implies developing a thermal management solution with these constraints:
+## Cooling Mobile Phones
+Cooling a mobile phone implies developing a thermal management solution with the following constraints:
 1. The outer case or surface temperature of the phone should be $$ <40 $$°C for user comfort
 2. The processor temperature should be $$ <80 $$ °C for reliable operation
+3. Presence of a protective case around the phone 
