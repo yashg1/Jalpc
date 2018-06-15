@@ -22,6 +22,7 @@ Phones keep getting more powerful and smaller ![alt text][ms_thesis_intro_comp_p
 
 
 
-[//]: # Images below
+[//]: # Images below (Space needed below)
+
 [ms_thesis_intro_comp_power]:
 static/assets/img/blog/ms_thesis/intro_watch.jpg
