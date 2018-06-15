@@ -7,3 +7,9 @@ Drive the product development of Sensors division of Syscon International":"
 Skills
 CAE, Heat transfer, ANSYS, CFD, MATLAB, SolidWorks CAD, Python, Mechanical/Thermal Design, Prototype Testing
 Technical Support
+
+<p align="center">
+  <img width= 50% alt = "Computing power increased by about 2x in 5 years" src="/static/assets/img/blog/ms_thesis/intro_watch.jpg">
+</p>
+
+<img src = "/static/assets/img/blog/ms_thesis/intro_watch.jpg" style="vertical-align:middle; width:80%;" alt = "Computing power increased by about 2x in 5 years" />

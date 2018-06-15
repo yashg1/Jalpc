@@ -16,6 +16,9 @@ Course: MS Thesis Research
 
 # Introduction
 Phones keep getting more powerful and smaller.
-![Computing power increased by about 2x in 5 years](/static/assets/img/blog/ms_thesis/intro_watch.jpg){: .align-right}
 
-<img style="float: right;" width="25%" src="/static/assets/img/blog/ms_thesis/intro_watch.jpg">
+
+
+<p style ="text-align:center;">
+  <img width= 50% alt = "Computing power increased by about 2x in 5 years" src="/static/assets/img/blog/ms_thesis/intro_watch.jpg">
+</p>
