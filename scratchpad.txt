@@ -13,3 +13,5 @@ Technical Support
 </p>
 
 <img src = "/static/assets/img/blog/ms_thesis/intro_watch.jpg" style="vertical-align:middle; width:80%;" alt = "Computing power increased by about 2x in 5 years" />
+
+<img width="35%" alt = "Computing power increased by 2x in 5 years" src="/static/assets/img/blog/msthesis/intro_watch.jpg">
