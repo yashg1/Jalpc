@@ -27,3 +27,10 @@ Summarizing, the cooling solution should move or spread the heat from a smaller 
 
 ## Why not Phase Change Materials
 As promising as the ability to absorb heat while keeping the temperature pinned around the melting point sounds, this heat still needs to be dissipated to the ambient. This is challenging because most PCMs (*such as candle wax*) are poor heat conductors compared to copper, a common heat spreader (thermal conductivity is $$ 100 \times $$ lower). The temperature of PCM increases like other materials if it absorbs heat before or after phase change (*i.e. if the temperature is not close to the melting point*).
+
+<img src="/static/assets/img/blog/msthesis/expt_cross_plane.jpg" alt="a" style="float: left; height: 15em; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img src="/static/assets/img/blog/msthesis/sim_combined.jpg" alt="a" style="float: left; height: 15em; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img src="/static/assets/img/blog/msthesis/expt_in_situ.jpg" alt="a" style="float: left; width: 15em; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
