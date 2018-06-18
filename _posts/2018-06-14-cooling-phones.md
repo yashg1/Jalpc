@@ -41,6 +41,13 @@ As promising as the ability to absorb heat while keeping the temperature pinned 
 > How can PCMs be used to deliver an optimal cooling solution?
 I conducted a feasibility study on the use of PCMs in smartphones to answer the following questions.
 
+<style type="text/css">
+table{
+    border-collapse: collapse;
+    border:2px solid black;  
+}
+
+</style>
 
 | Questions      | Work Done         |
 | ------------- | ------------------ |
