@@ -36,8 +36,8 @@ From a thermal management standpoint, this is like hitting a jackpot! A PCM can 
 
 # Objectives
 
-> How can PCMs be used to deliver an optimal cooling solution?
-I conducted a feasibility study on the use of PCMs in smartphones to answer the following questions.
+`How can PCMs be used to deliver an optimal cooling solution?
+I conducted a feasibility study on the use of PCMs in smartphones to answer the following questions.`
 
 <style type="text/css">
 table{
@@ -57,7 +57,15 @@ table{
 # Highlights
 
 * Achieved an increase in cutoff time by $$ 1.5 - 2.48 \times $$ with the PCM compared to no PCMs
+
 * PCM thickness and convection heat transfer coefficient have the largest impact on the cutoff time
+
+<img src="/static/assets/img/blog/msthesis/expt_cross_plane.jpg" alt="a" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img src="/static/assets/img/blog/msthesis/sim_combined.jpg" alt="a" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img class = "centerImage" src="/static/assets/img/blog/msthesis/expt_in_situ.jpg" alt="a" >
+
 
 # Publications
 1. MS Thesis: [Passive Thermal Management using Phase Change Materials](https://search.proquest.com/docview/1881313041)
