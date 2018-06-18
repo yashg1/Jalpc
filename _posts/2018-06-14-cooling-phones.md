@@ -60,11 +60,12 @@ table{
 
 * PCM thickness and convection heat transfer coefficient have the largest impact on the cutoff time
 
-<img src="/static/assets/img/blog/msthesis/expt_cross_plane.jpg" alt="a" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/static/assets/img/blog/msthesis/expt_cross_plane.jpg" alt="a" style="float: left; height: 15em; margin-right: 1%; margin-bottom: 0.5em;">
 
-<img src="/static/assets/img/blog/msthesis/sim_combined.jpg" alt="a" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">  
+<img src="/static/assets/img/blog/msthesis/sim_combined.jpg" alt="a" style="float: left; height: 15em; margin-right: 1%; margin-bottom: 0.5em;">  
 
-<img src="/static/assets/img/blog/msthesis/expt_in_situ.jpg" alt="a" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/static/assets/img/blog/msthesis/expt_in_situ.jpg" alt="a" style="float: left; width: 15em; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
 
 # Publications
 1. MS Thesis: [Passive Thermal Management using Phase Change Materials](https://search.proquest.com/docview/1881313041)
