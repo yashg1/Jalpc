@@ -9,12 +9,14 @@ tags: [Electronics Cooling, MS Thesis Research, Heat Transfer, CFD, Experiments]
 icon: icon-html
 ---
 # Project Description
+
+<p><img src="/static/assets/img/blog/msthesis/intro_pcm.jpg" alt="Why PCM" style="float:right;width:40%; margin-right: 10px;">
 Advisor: Prof. Amy Marconnet & John Howarter  
 Funding Agency: [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC)  
 Duration: August 2014 - December 2016  
 Course: MS Thesis Research  
-Collaborators: Zhenhuan Xu, Alex Bruce, Javieradrian Ruiz, Michael Woodworth, Claire Lang
-
+Collaborators: Zhenhuan Xu, Alex Bruce,       Javieradrian Ruiz, Michael Woodworth, Claire Lang
+</p>
 # Introduction
 Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) have not changed. For reliable operation, the processor temperature should be < 120°C. Hence, cooling solutions play a vital role in device performance.
 
@@ -29,6 +31,7 @@ Cooling a mobile phone implies developing a thermal management solution with the
 Summarizing, the cooling solution should move or spread the heat from a smaller surface area (processor) to a larger surface area (outer surface of phone) for the heat to be dissipated out to the ambient while ensuring that the user can hold the phone at all times. In addition, the cooling solution should be able to respond to short duration, sharp spikes in power consumption ($$\approx 10\times$$ Thermal Design Power).
 
 ## Why Phase Change materials
+
  Store heat without increasing the temperature (around their melting point). The supplied heat is absorbed and used to change the phase. Conversely, during solidification, heat is liberated and the material changes phase to solid.  
 
 From a thermal management standpoint, this is like hitting a jackpot! A PCM can be used to absorb the excess heat during periods of intense use in a smartphone while keeping the temperatures around the melting point. This is a win-win situation since the smartphone performance is improved while keeping the (processor & surface) temperatures in check.
@@ -62,7 +65,7 @@ table{
 * PCM thickness and convection heat transfer coefficient have the largest impact on the cutoff time
 
 # Publications
-1. [MS Thesis](resources/GanatraYash_MSME.pdf)
+1. [MS Thesis](https://search.proquest.com/docview/1881313041)
 2. [Intl Journal of Thermal Sciences Paper](https://doi.org/10.1016/j.ijthermalsci.2018.03.012)
 3. [ASME InterPack 2015 Conference Paper](resources/ASME_InterPack.pdf)
 
