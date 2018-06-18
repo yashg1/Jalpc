@@ -62,7 +62,7 @@ table{
 * PCM thickness and convection heat transfer coefficient have the largest impact on the cutoff time
 
 # Publications
-1. [MS Thesis](resources/GanatraYash_MSME.pdf)
+1. [MS Thesis](https://search.proquest.com/docview/1881313041)
 2. [Intl Journal of Thermal Sciences Paper](https://doi.org/10.1016/j.ijthermalsci.2018.03.012)
 3. [ASME InterPack 2015 Conference Paper](resources/ASME_InterPack.pdf)
 
