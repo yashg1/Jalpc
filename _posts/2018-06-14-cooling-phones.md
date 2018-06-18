@@ -8,6 +8,8 @@ categories: [Portfolio]
 tags: [Electronics Cooling, MS Thesis Research, Heat Transfer, CFD, Experiments]
 icon: icon-html
 ---
+{::options parse_block_html="true" /}
+
 # Project Description
 
 <img src="/static/assets/img/blog/msthesis/intro_pcm.jpg" alt="Why PCM" style="float:right;width:25%; margin-left: 20px;">
@@ -67,9 +69,9 @@ table{
   }
 </style>
 
-![image 1](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg)
-![image 2](/static/assets/img/blog/msthesis/ir_surface_temps.jpg)
-![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)
+![image 1](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg)*My caption1*
+![image 2](/static/assets/img/blog/msthesis/ir_surface_temps.jpg)*My caption2*
+![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)*My caption3*
 {: .imside}
 
 .blue {
@@ -78,6 +80,16 @@ table{
 
 This is a paragraph that for some reason we want blue.
 {: .blue}
+
+<div>
+  <p>Hello World</p>
+</div>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
 
 # Publications
 
