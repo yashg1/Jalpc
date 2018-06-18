@@ -36,8 +36,8 @@ From a thermal management standpoint, this is like hitting a jackpot! A PCM can 
 
 # Objectives
 
-`How can PCMs be used to deliver an optimal cooling solution?
-I conducted a feasibility study on the use of PCMs in smartphones to answer the following questions.`
+```How can PCMs be used to deliver an optimal cooling solution?
+I conducted a feasibility study on the use of PCMs in smartphones to answer the following questions.```
 
 <style type="text/css">
 table{
@@ -62,9 +62,9 @@ table{
 
 <img src="/static/assets/img/blog/msthesis/expt_cross_plane.jpg" alt="a" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
 
-<img src="/static/assets/img/blog/msthesis/sim_combined.jpg" alt="a" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/static/assets/img/blog/msthesis/sim_combined.jpg" alt="a" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">  
 
-<img class = "centerImage" src="/static/assets/img/blog/msthesis/expt_in_situ.jpg" alt="a" >
+<img class = "imcenter" src="/static/assets/img/blog/msthesis/expt_in_situ.jpg" alt="a" width = 50%>
 
 
 # Publications
