@@ -11,6 +11,8 @@ icon: icon-html
 {::options parse_block_html="true" /}
 
 ## Project Description
+{: .panel-heading}
+
 
 <img src="/static/assets/img/blog/msthesis/intro_pcm.jpg" alt="Why PCM" style="float:right;width:25%; margin-left: 20px;">
 Advisor: Prof. Amy Marconnet & John Howarter  
@@ -20,6 +22,9 @@ Course: MS Thesis Research
 Collaborators: Zhenhuan Xu, Alex Bruce,       Javieradrian Ruiz, Michael Woodworth, Claire Lang
 
 ## Cooling Mobile Phones
+{: .panel-heading}
+
+
 Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged. Cooling a mobile phone implies developing a thermal management solution with the following challenges:
 
 1. The outer case or surface temperature of the phone should be < 40°C so that the user can hold the phone  
@@ -30,6 +35,8 @@ Electronic devices keep getting more powerful and smaller in size. The temperatu
 5. [Many interactive smartphone applications have a short burst of excess power consumption followed by an idle time waiting for user inputs](www.scientificamerican.com/article/computational-sprinting/). Keeping the processor temperature within operating limits goes a long way in ensuring a responsive user interface (*preventing lags*).
 
 ## Why Phase Change materials
+{: .panel-heading}
+
 
  Store heat without increasing the temperature (around their melting point). The supplied heat is absorbed and used to change the phase. Conversely, during solidification, heat is liberated and the material changes phase to solid.  
 
@@ -37,9 +44,12 @@ From a thermal management standpoint, this is like hitting a jackpot! A PCM can 
 
 
 ## Objectives
+{: .panel-heading}
 
->How can PCMs be used to deliver an optimal cooling solution?
+
+How can PCMs be used to deliver an optimal cooling solution?
 I conducted a feasibility study on the use of PCMs in smartphones to answer the following questions.
+{: .alert .alert-warning}
 
 <style type="text/css">
 table{
@@ -60,6 +70,8 @@ table{
 |How do they influence the key design parameters?| Analyzed the effect of material properties, PCM weight and integration location on the cutoff time by       {::nomarkdown} <ul><li> Performing stress tests with PCM on the processor of a Thermal Test Vehicle   </li><li> Developed phone and processor level heat transfer simulations in COMSOL & ANSYS ICEPAK </li> <li> Performed Uncertainty Ananlysis (Parametric sweep) to determine critical properties </li> </ul> {:/}|
 
 ## Highlights
+{: .panel-heading}
+
 
 * Achieved an increase in cutoff time by $$ 1.5 - 2.48 \times $$ with the PCM compared to no PCMs
 
@@ -74,26 +86,11 @@ table{
 
 ![image 1](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg)
 ![image 2](/static/assets/img/blog/msthesis/ir_surface_temps.jpg)
-![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG){: .imside}
-
-Center-aligned
-{: .alert .alert-info .text-center}
-
-<style>
-.blue {
-  color: blue;
-}
-</style>
-
-This is a paragraph that for some reason we want blue.
-{: .blue}
-
-
-
-
-This is *red*{: style="color: red"}.
+![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)
+{: .imside}
 
 ## Publications
+{: .panel-heading}
 
 1. MS Thesis: [Passive Thermal Management using Phase Change Materials](https://search.proquest.com/docview/1881313041)
 
@@ -101,8 +98,20 @@ This is *red*{: style="color: red"}.
 
 3. ASME InterPACK 2015 Conference: [Passive Thermal Management Using Phase Change Materials: Experimental Evaluation of Thermal Resistances](https://github.com/yashg1/yashg1.github.io/blob/517f903e466465d636acdad39706c1dd84b89ae0/resources/ASME_InterPack.pdf)
 
+<div class="panel panel-warning">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
+
+WARNING DESCRIPTION
+
+</div>
+</div>
+
 
 ## Skills
+{: .panel-heading}
+
 
 * Thermal Design
 
