@@ -123,3 +123,4 @@ table{
 * IR Camera & thermocouples temperature measurement
 
 * Mentoring undergraduate students
+{: .alert .alert-success}
