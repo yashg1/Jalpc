@@ -17,11 +17,11 @@ icon: icon-html
 
 <img src="/static/assets/img/blog/msthesis/intro_pcm.jpg" alt="Why PCM" style="float:right;width:25%; margin-left: 20px;">
 
-Advisor: Prof. Amy Marconnet & John Howarter
+Advisor: Prof. Amy Marconnet & John Howarter  
 Funding Agency: [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC)  
 Duration: August 2014 - December 2016  
 Course: MS Thesis Research  
-Collaborators: Zhenhuan Xu, Alex Bruce, Javieradrian Ruiz, Michael Woodworth, Claire Lang
+Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Michael Woodworth, Claire Lang
 
 </div>
 
