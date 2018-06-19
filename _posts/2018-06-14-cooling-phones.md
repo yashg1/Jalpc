@@ -50,10 +50,13 @@ table{
 </style>
 
 | Questions      | Work Done         |
-| ------------- | ------------------ |
+| -------------- + ------------------ |
 | How to compare different thermal solutions?         |   {::nomarkdown}<ul><li> Reviewed literature </li><li> Surveyed thermal engineers in the industry</li></ul>{:/} Identified cutoff time - time taken to reach 80°C (cutoff temperature) |
+| -------------- + ------------------ |
 |   What are the key design parameters?         |    {::nomarkdown}<ul><li>Integration location of the PCM: on the processor or near the surface </li><li>Weight/Volume of PCM required </li><li>Processor power profile (*power vs time curve*) </li></ul>{:/}|
+| -------------- + ------------------ |
 |  What are the critical material properties?         |    {::nomarkdown}<ul><li> Thermal conductivity </li><li> Latent Heat </li>     <li> Melting Point (Transition Temperature) </li></ul>{:/} Characterized thermal conductivity using reference bar method (*ASTM D5470 standard*) with Infra-Red (IR) camera       |
+| -------------- + ------------------ |
 |How do they influence the key design parameters?| Analyzed the effect of material properties, PCM weight and integration location on the cutoff time by       {::nomarkdown} <ul><li> Performing stress tests with PCM on the processor of a Thermal Test Vehicle   </li><li> Developed phone and processor level heat transfer simulations in COMSOL & ANSYS ICEPAK </li> <li> Performed Uncertainty Ananlysis (Parametric sweep) to determine critical properties </li> </ul> {:/}|
 
 ## Highlights
@@ -76,20 +79,14 @@ table{
 
 
 This is a paragraph that for some reason we want blue.
-{: .blue}
+{:.blue}
 
 .blue {
   color: blue;
 }
 
-<div>
-  <p>Hello World</p>
-</div>
 
-I'm in a green box now!
-{: .bkggreen}
-
-
+This is *red*{: style="color: red"}.
 
 ## Publications
 
