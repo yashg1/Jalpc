@@ -72,18 +72,23 @@ table{
   }
 </style>
 
-![image 1](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg)*My caption1*
-![image 2](/static/assets/img/blog/msthesis/ir_surface_temps.jpg)*My caption2*
-![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)*My caption3*
-{: .imside}
+![image 1](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg)
+![image 2](/static/assets/img/blog/msthesis/ir_surface_temps.jpg)
+![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG){: .imside}
 
+Center-aligned
+{: .alert .alert-info .text-center}
 
-This is a paragraph that for some reason we want blue.
-{:.blue}
-
+<style>
 .blue {
   color: blue;
 }
+</style>
+
+This is a paragraph that for some reason we want blue.
+{: .blue}
+
+
 
 
 This is *red*{: style="color: red"}.
