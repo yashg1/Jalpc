@@ -3,11 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Cooling smartphones using Phase Change Materials
   url: https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html
-  img: /static/assets/img/landing/jekyll.png
-  desc: MS thesis project with Prof Amy Marconnet in joint partnership with Qualcomm at the Cooling Technologies Research Center at Purdue University
+  img: /static/assets/img/landing/mtec.png
+  desc: MS Thesis, Purdue University
 
 - name: Build a Car for SAE BAJA
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/roadrunners.jpg
   desc: Made an All-terrain vehicle (ATV)
 
 - name: CFD simulation of Electromagnetic stirrer in ANSYS FLUENT
