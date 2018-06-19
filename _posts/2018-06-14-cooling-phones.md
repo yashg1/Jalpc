@@ -11,7 +11,7 @@ icon: icon-html
 {::options parse_block_html="true" /}
 
 ## Project Description
-{: .panel-heading}
+{: .alert .alert-info}
 
 
 <img src="/static/assets/img/blog/msthesis/intro_pcm.jpg" alt="Why PCM" style="float:right;width:25%; margin-left: 20px;">
@@ -22,7 +22,7 @@ Course: MS Thesis Research
 Collaborators: Zhenhuan Xu, Alex Bruce,       Javieradrian Ruiz, Michael Woodworth, Claire Lang
 
 ## Cooling Mobile Phones
-{: .panel-heading}
+{: .alert .alert-info}
 
 
 Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged. Cooling a mobile phone implies developing a thermal management solution with the following challenges:
@@ -89,8 +89,10 @@ table{
 ![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)
 {: .imside}
 
+
+
 ## Publications
-{: .panel-heading}
+{: .alert .alert-info}
 
 1. MS Thesis: [Passive Thermal Management using Phase Change Materials](https://search.proquest.com/docview/1881313041)
 
@@ -98,19 +100,9 @@ table{
 
 3. ASME InterPACK 2015 Conference: [Passive Thermal Management Using Phase Change Materials: Experimental Evaluation of Thermal Resistances](https://github.com/yashg1/yashg1.github.io/blob/517f903e466465d636acdad39706c1dd84b89ae0/resources/ASME_InterPack.pdf)
 
-<div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
-<div class="panel-body">
-
-WARNING DESCRIPTION
-
-</div>
-</div>
 
 
-## Skills
-{: .panel-heading}
+## Skills {: .panel-heading}
 
 
 * Thermal Design
