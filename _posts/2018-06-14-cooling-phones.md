@@ -13,13 +13,17 @@ icon: icon-html
 ## Project Description
 {: .alert .alert-info}
 
+<div class="panel-body">
 
 <img src="/static/assets/img/blog/msthesis/intro_pcm.jpg" alt="Why PCM" style="float:right;width:25%; margin-left: 20px;">
 Advisor: Prof. Amy Marconnet & John Howarter  
 Funding Agency: [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC)  
 Duration: August 2014 - December 2016  
 Course: MS Thesis Research  
-Collaborators: Zhenhuan Xu, Alex Bruce,       Javieradrian Ruiz, Michael Woodworth, Claire Lang
+Collaborators: Zhenhuan Xu, Alex Bruce, Javieradrian Ruiz, Michael Woodworth, Claire Lang
+
+</div>
+
 
 ## Cooling Mobile Phones
 {: .alert .alert-info}
@@ -32,11 +36,11 @@ Electronic devices keep getting more powerful and smaller in size. The temperatu
 2. The processor temperature should be < 80°C for reliable operation
 
 3. Heat transfer to the ambient is limited by natural convection. In other words, the phone is not used in a "windy" environment.
-5. [Many interactive smartphone applications have a short burst of excess power consumption followed by an idle time waiting for user inputs](www.scientificamerican.com/article/computational-sprinting/). Keeping the processor temperature within operating limits goes a long way in ensuring a responsive user interface (*preventing lags*).
+
+4. [Many interactive smartphone applications have a short burst of excess power consumption followed by an idle time waiting for user inputs](www.scientificamerican.com/article/computational-sprinting/). Keeping the processor temperature within operating limits goes a long way in ensuring a responsive user interface (*preventing lags*).
 
 ## Why Phase Change materials
-{: .panel-heading}
-
+{: .alert .alert-info}
 
  Store heat without increasing the temperature (around their melting point). The supplied heat is absorbed and used to change the phase. Conversely, during solidification, heat is liberated and the material changes phase to solid.  
 
@@ -44,7 +48,7 @@ From a thermal management standpoint, this is like hitting a jackpot! A PCM can 
 
 
 ## Objectives
-{: .panel-heading}
+{: .alert .alert-info}
 
 
 How can PCMs be used to deliver an optimal cooling solution?
@@ -70,7 +74,7 @@ table{
 |How do they influence the key design parameters?| Analyzed the effect of material properties, PCM weight and integration location on the cutoff time by       {::nomarkdown} <ul><li> Performing stress tests with PCM on the processor of a Thermal Test Vehicle   </li><li> Developed phone and processor level heat transfer simulations in COMSOL & ANSYS ICEPAK </li> <li> Performed Uncertainty Ananlysis (Parametric sweep) to determine critical properties </li> </ul> {:/}|
 
 ## Highlights
-{: .panel-heading}
+{: .alert .alert-info}
 
 
 * Achieved an increase in cutoff time by $$ 1.5 - 2.48 \times $$ with the PCM compared to no PCMs
@@ -102,7 +106,8 @@ table{
 
 
 
-## Skills {: .panel-heading}
+## Skills
+{: .alert .alert-info}
 
 
 * Thermal Design
