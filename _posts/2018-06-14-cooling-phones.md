@@ -98,7 +98,7 @@ PCM Melt Front Propagation
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/K4colRpZPqg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/K4colRpZPqg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
