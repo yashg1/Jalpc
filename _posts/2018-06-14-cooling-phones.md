@@ -96,13 +96,11 @@ table{
 
 PCM Melt Front Propagation
 
+<!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="static/assets/img/blog/msthesis/expt_in_situ.jpg">
-    <source src="static/assets/img/blog/msthesis/pcm_melting.mp4" type="video/mp4">
-    <source src="static/assets/img/blog/msthesis/pcm_melting.ogg" type="video/ogg">
-    <source src="static/assets/img/blog/msthesis/pcm_melting.webm" type="video/webm">
-  </video>
+  <iframe src="https://youtu.be/K4colRpZPqg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
 
 ## Publications
