@@ -54,3 +54,5 @@ Links
   desc: COO
   website: https://github.com
   email: coo@google.com
+
+  <img src="/static/assets/img/blog/cfdemag/magcoil.JPG" alt="Current density contours and magnetic field vector in ANSYS FLUENT" style="float:right;width:30%; margin-left: 20px;">
