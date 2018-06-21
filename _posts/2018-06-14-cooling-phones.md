@@ -114,7 +114,7 @@ PCM Melt Front Propagation
 
 2. International Journal of Thermal Sciences: [Experimental Investigation of Phase Change Materials for Thermal Management of Handheld Devices](https://doi.org/10.1016/j.ijthermalsci.2018.03.012)
 
-3. ASME InterPACK 2015 Conference: [Passive Thermal Management Using Phase Change Materials: Experimental Evaluation of Thermal Resistances](https://github.com/yashg1/yashg1.github.io/blob/517f903e466465d636acdad39706c1dd84b89ae0/resources/ASME_InterPack.pdf)
+3. ASME InterPACK 2015 Conference: [Passive Thermal Management Using Phase Change Materials: Experimental Evaluation of Thermal Resistances](https://github.com/yashg1/yashg1.github.io/blob/43c78338d9abaad9278c5321e61bdf1b698ba4e0/resources/msthesis_ref/ASME_InterPack.pdf)
 
 
 
