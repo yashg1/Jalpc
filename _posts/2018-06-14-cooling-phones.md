@@ -30,7 +30,7 @@ Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Mic
 {: .alert .alert-info}
 
 
-> `Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged.`
+> Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged.
 
 Cooling a mobile phone implies developing a thermal management solution with the following challenges:
 
