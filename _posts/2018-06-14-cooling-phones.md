@@ -5,7 +5,7 @@ date:   2018-06-14
 desc: "Electronics Cooling"
 keywords: "Electronics cooling, CFD, Heat Transfer, Phase Change Materials,Thermal stress test, COMSOL, Simulation"
 categories: [Portfolio]
-tags: [Electronics Cooling, MS Thesis Research, Heat Transfer, CFD, Experiments, Grad School]
+tags: [Electronics Cooling, MS Thesis Research, Heat Transfer, CFD, Experiments]
 icon: icon-html
 ---
 {::options parse_block_html="true" /}
@@ -30,9 +30,7 @@ Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Mic
 {: .alert .alert-info}
 
 
-> Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged.
-
-Cooling a mobile phone implies developing a thermal management solution with the following challenges:
+Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged. Cooling a mobile phone implies developing a thermal management solution with the following challenges:
 
 1. The outer case or surface temperature of the phone should be < 40°C so that the user can hold the phone  
 
@@ -47,9 +45,7 @@ Cooling a mobile phone implies developing a thermal management solution with the
 
  Store heat without increasing the temperature (around their melting point). The supplied heat is absorbed and used to change the phase. Conversely, during solidification, heat is liberated and the material changes phase to solid.  
 
->From a thermal management standpoint, this is like hitting a jackpot!
-
-A PCM can be used to absorb the excess heat during periods of intense use in a smartphone while keeping the temperatures around the melting point. This is a win-win situation since the smartphone performance is improved while keeping the (processor & surface) temperatures in check.
+From a thermal management standpoint, this is like hitting a jackpot! A PCM can be used to absorb the excess heat during periods of intense use in a smartphone while keeping the temperatures around the melting point. This is a win-win situation since the smartphone performance is improved while keeping the (processor & surface) temperatures in check.
 
 
 ## Objectives
@@ -98,13 +94,6 @@ table{
 ![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)
 {: .imside}
 
-PCM Melt Front Propagation
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/K4colRpZPqg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
 
 
 ## Publications
@@ -114,7 +103,7 @@ PCM Melt Front Propagation
 
 2. International Journal of Thermal Sciences: [Experimental Investigation of Phase Change Materials for Thermal Management of Handheld Devices](https://doi.org/10.1016/j.ijthermalsci.2018.03.012)
 
-3. ASME InterPACK 2015 Conference: [Passive Thermal Management Using Phase Change Materials: Experimental Evaluation of Thermal Resistances](https://github.com/yashg1/yashg1.github.io/blob/43c78338d9abaad9278c5321e61bdf1b698ba4e0/resources/msthesis_ref/ASME_InterPack.pdf)
+3. ASME InterPACK 2015 Conference: [Passive Thermal Management Using Phase Change Materials: Experimental Evaluation of Thermal Resistances](https://github.com/yashg1/yashg1.github.io/blob/517f903e466465d636acdad39706c1dd84b89ae0/resources/ASME_InterPack.pdf)
 
 
 
