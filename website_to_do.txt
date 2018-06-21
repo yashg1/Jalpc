@@ -3,4 +3,5 @@
 2. Image captioning, pos
 3. Fix links
 4. Add wordcloud, quotes
-5. Fix fa grad icon 
+5. Fix fa grad icon
+6. Cite http://www.tms.org/pubs/journals/JOM/0201/Thevoz/Thevoz-0201.html

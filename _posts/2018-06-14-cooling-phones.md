@@ -30,7 +30,9 @@ Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Mic
 {: .alert .alert-info}
 
 
-Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged. Cooling a mobile phone implies developing a thermal management solution with the following challenges:
+> `Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged.`
+
+Cooling a mobile phone implies developing a thermal management solution with the following challenges:
 
 1. The outer case or surface temperature of the phone should be < 40°C so that the user can hold the phone  
 
@@ -45,7 +47,9 @@ Electronic devices keep getting more powerful and smaller in size. The temperatu
 
  Store heat without increasing the temperature (around their melting point). The supplied heat is absorbed and used to change the phase. Conversely, during solidification, heat is liberated and the material changes phase to solid.  
 
-From a thermal management standpoint, this is like hitting a jackpot! A PCM can be used to absorb the excess heat during periods of intense use in a smartphone while keeping the temperatures around the melting point. This is a win-win situation since the smartphone performance is improved while keeping the (processor & surface) temperatures in check.
+>`From a thermal management standpoint, this is like hitting a jackpot!`
+
+A PCM can be used to absorb the excess heat during periods of intense use in a smartphone while keeping the temperatures around the melting point. This is a win-win situation since the smartphone performance is improved while keeping the (processor & surface) temperatures in check.
 
 
 ## Objectives
