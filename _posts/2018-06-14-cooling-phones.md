@@ -47,7 +47,8 @@ Cooling a mobile phone implies developing a thermal management solution with the
 
  Store heat without increasing the temperature (around their melting point). The supplied heat is absorbed and used to change the phase. Conversely, during solidification, heat is liberated and the material changes phase to solid.  
 
->`From a thermal management standpoint, this is like hitting a jackpot!`
+From a thermal management standpoint, this is like hitting a jackpot!
+{: .alert .alert-success}
 
 A PCM can be used to absorb the excess heat during periods of intense use in a smartphone while keeping the temperatures around the melting point. This is a win-win situation since the smartphone performance is improved while keeping the (processor & surface) temperatures in check.
 
