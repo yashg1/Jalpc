@@ -2,8 +2,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Yash Ganatra portfolio
-description: Yash's blog
+title: Yash Ganatra Portfolio
+description: Mech on Github!
 keywords: yash,yashganatra, yashg1, blog,Jekyll,github,gh-pages
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://yashg1.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
@@ -73,6 +73,7 @@ kramdown:
   math_engine: mathjax
   math_engine_opts:
     preview: true
+<<<<<<< HEAD
     
 =======
 # Welcome to Jekyll!
@@ -150,3 +151,5 @@ kramdown:
   math_engine_opts:
     preview: true
 >>>>>>> before discard
+=======
+>>>>>>> 17c87f1e25c2489f61a0b5f5941d28fc8347be4f
