@@ -4,3 +4,4 @@
 4. https://thornelabs.net/2014/11/30/centering-images-with-jekyll-and-markdown.html
 5. https://user-images.githubusercontent.com/6138914/31284457-e22a5862-aab8-11e7-9dd0-d2582edcdf56.png
 6(!). https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/#colorful-sections
+7. https://gitlab.com/gitlab-com/www-gitlab-com/raw/master/source/handbook/product/technical-writing/markdown-guide/index.html.md
