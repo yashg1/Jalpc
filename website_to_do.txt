@@ -1,0 +1,6 @@
+# MS Thesis
+1. Add alt text
+2. Image captioning, pos
+3. Fix links
+4. Add wordcloud, quotes
+5. Fix fa grad icon 
