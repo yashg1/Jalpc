@@ -5,7 +5,7 @@ date:   2018-06-14
 desc: "Electronics Cooling"
 keywords: "Electronics cooling, CFD, Heat Transfer, Phase Change Materials,Thermal stress test, COMSOL, Simulation"
 categories: [Portfolio]
-tags: [Electronics Cooling, MS Thesis Research, Heat Transfer, CFD, Experiments]
+tags: [Electronics Cooling, MS Thesis Research, Heat Transfer, CFD, Experiments, Grad School]
 icon: icon-html
 ---
 {::options parse_block_html="true" /}
