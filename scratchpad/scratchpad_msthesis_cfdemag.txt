@@ -57,10 +57,25 @@ Links
 
   <img src="/static/assets/img/blog/cfdemag/magcoil.JPG" alt="Current density contours and magnetic field vector in ANSYS FLUENT" style="float:right;width:30%; margin-left: 20px;">
 
-  
+
   <figure style="float:right; width:30%; padding: 0.5em; font-size: smaller;margin: 0.5em; text-align: center;" markdown="1">
   <figcaption>
   Current density contours and magnetic field vector in ANSYS FLUENT
   </figcaption>
   ![Current density contours and magnetic field vector in ANSYS FLUENT](/static/assets/img/blog/cfdemag/magcoil.JPG  "Solving Maxwell's electromagnetic equations using UDF in FLUENT")
   </figure>
+
+  Chart Mermaid
+  graph LR
+subgraph Electromagnetic Equations customized using UDF
+A[Current through EM coils] -->B(Magnetic field inside stirrer)
+B --> D{Induced Eddy currents}
+C[Moving electrically conducting metal] ==> |often neglected| D
+D --> E[Induced magnetic field in metal]
+end
+subgraph ANSYS FLUENT Default CFD Equations
+E ==> |Coupling term: Lorentz Force| G[Fluid flow]
+G  --- H[Energy]
+end
+
+A solid or liquid moving in a magnetic field experiences a voltage. If the material is electrically conducting and a current path is available, currents are induced. Conversely, currents maybe induced by a varying magnetic field.
