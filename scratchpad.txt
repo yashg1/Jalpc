@@ -56,4 +56,11 @@ Links
   email: coo@google.com
 
   <img src="/static/assets/img/blog/cfdemag/magcoil.JPG" alt="Current density contours and magnetic field vector in ANSYS FLUENT" style="float:right;width:30%; margin-left: 20px;">
-  {: .imsidemagcoil}
+
+  
+  <figure style="float:right; width:30%; padding: 0.5em; font-size: smaller;margin: 0.5em; text-align: center;" markdown="1">
+  <figcaption>
+  Current density contours and magnetic field vector in ANSYS FLUENT
+  </figcaption>
+  ![Current density contours and magnetic field vector in ANSYS FLUENT](/static/assets/img/blog/cfdemag/magcoil.JPG  "Solving Maxwell's electromagnetic equations using UDF in FLUENT")
+  </figure>
