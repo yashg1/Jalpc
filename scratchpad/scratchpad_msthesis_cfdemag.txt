@@ -67,15 +67,15 @@ Links
 
   Chart Mermaid
   graph LR
-subgraph Electromagnetic Equations customized using UDF
-A[Current through EM coils] -->B(Magnetic field inside stirrer)
-B --> D{Induced Eddy currents}
-C[Moving electrically conducting metal] ==> |often neglected| D
-D --> E[Induced magnetic field in metal]
-end
-subgraph ANSYS FLUENT Default CFD Equations
-E ==> |Coupling term: Lorentz Force| G[Fluid flow]
-G  --- H[Energy]
-end
+  subgraph Electromagnetic Equations customized using UDF
+  A(Current through EM coils) -->B(Magnetic field inside stirrer)
+  B --> D{Induced Eddy currents}
+  C(Moving electrically conducting metal) ==> |"My contribution"| D
+  D --> E(Induced magnetic field in metal)
+  end
+  subgraph ANSYS FLUENT Default CFD Equations
+  E ==> |"Coupling term: Lorentz Force "| G(Fluid flow)
+  G  --- H(Energy)
+  end
 
 A solid or liquid moving in a magnetic field experiences a voltage. If the material is electrically conducting and a current path is available, currents are induced. Conversely, currents maybe induced by a varying magnetic field.
