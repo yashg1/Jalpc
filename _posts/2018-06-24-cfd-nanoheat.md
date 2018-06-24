@@ -44,12 +44,12 @@ Collaborators:
 
 Electronic devices keep getting more powerful and smaller due to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law). Todays transistors are just 70 atoms wide (Silicon's atomic size is $$ \approx 2\,\mathrm{nm$$). Thermal considerations have significantly impact the reliability and performance. Heat conduction for such small lengths (micro/nanoscale) is different from the macroscale.
 
->**Fourier's heat conduction equation is not applicable to heat transfer at small length scales because the heat transport mechanism is different. Instead, Boltzmann Transport Equation governs the heat transfer for these length scales.**
+>**Fourier's heat conduction equation is not applicable to heat transfer at small length scales because the heat transport mechanism is different. Instead, Boltzmann Transport Equation (BTE) governs the heat transfer for these length scales.** BTE being a *7 dimensional equation, is difficult to solve numerically*. I solved the BTE in COMSOL (FEA solver) by simplifying it and comparing it with the [Radiative Transport Equation](https://www.comsol.com/heat-transfer-module#features), which is solved by COMSOL. 
 
-Microscale effects in a thin layer inhibit heat flow from the hotspots in a processor (transistor) causing temperature peaks which can reduce the time to failure [^2]. A macroscale (Fourier) heat conduction model applied to a microscale does not capture microscale effects leading to a significant error and underprediction of temperatures in a processor.
+Microscale effects in a thin layer inhibit heat flow from the hotspots in a processor (transistor) causing temperature peaks which can reduce the time to failure [^1]. A macroscale (Fourier) heat conduction model applied to a microscale does not capture microscale effects leading to a significant error and underprediction of temperatures in a processor.
 {: .alert .alert-danger}
 
-[^2]: Flik, M. I., B. I. Choi, and K. E. Goodson. "Heat transfer regimes in microstructures." Journal of Heat Transfer 114.3 (1992): 666-674.
+[^1]: Flik, M. I., B. I. Choi, and K. E. Goodson. "Heat transfer regimes in microstructures." Journal of Heat Transfer 114.3 (1992): 666-674.
 
 Heat conduction equations for macroscale assume that the transport properties are independent of the size (length scale). In metals, free electrons continuously move randomly and collide with each other, which results in energy transfer. *Mean free path* is the distance travelled between successive collisions and relaxation time is the time between successive collisions. When two ends of a metal are maintained at different temperatures, there is a net transport of energy from the hot to the cold side since the electrons on the hot side have more energy (*diffusive heat transfer*). When the device thickness is similar to the mean free path, the electrons (in metals) and phonons (primary heat carriers in semiconductors and insulators) mostly collide with the boundary rather than each other. This is known as *ballistc heat transfer*[^2].
 
@@ -63,14 +63,14 @@ Heat conduction equations for macroscale assume that the transport properties ar
 </style>
 
 ![Diffusive and Ballistic heat transfer comparison](/static/assets/img/blog/nanoheat/ht_compare.jpg "2D temperature contours in diffusive and ballistic heat transfer regimes")
-![Heat transfer regimes](/static/assets/img/blog/nanoheat/ht_compare.jpg "Heat transfer regime based on length scale")
+![Heat transfer regimes](/static/assets/img/blog/nanoheat/ht_regimes.gif "Heat transfer regime based on length scale")
 ![Effects of length scale on thermal conductivity](/static/assets/img/blog/nanoheat/thermal_cond_thickness.gif "Effects of length scale on thermal conductivity")
 {: .imsidenano}
 
 
 ## Objectives
 {: .alert .alert-info}
-1.
+1. Develop heat conduction simulation of micro/nanoscale heat transfe
 2. Develop customizable phase change CFD simulation in MATLAB
 {: .alert .alert-warning}
 
@@ -78,24 +78,28 @@ Heat conduction equations for macroscale assume that the transport properties ar
 ## Highlights
 {: .alert .alert-info}
 
-* Developed and validated 2D CFD models of phase change in MATLAB and ANSYS FLUENT with analytical and numerical solutions
+* Developed 2D micro/nanoscale heat transfer simulation in COMSOL
 
-* Expanded model capability by including temperature variation of material properties (specific heat, thermal conductivity, viscosity) using [User Defined Functions](http://www.afs.enea.it/project/neptunius/docs/fluent/html/udf/node5.htm), programmed in C
+* Validated model with analytical solutions for different boundary conditions (*temperature only & combination of temperature and heat flux*)
 
-* Developed 2D heat transfer and fluid flow CFD solver in MATLAB from first principles using finite volume method (FVM)
+* Simplified BTE to Radiative Transport Equation, which is solved in COMSOL
 
-* Increased solver speed by vectorizing MATLAB code
+* Demonstrated that Fourier heat conduction equation is not applicable  $$<\,10\,\micro\mathrm{m}$$ thickness
+
 
 <style>
- .imside608>img {
+ .imsidenanohighlights>img {
     width:30%;
     padding:0 5px;
   }
 </style>
 
-![2D model geometry for heat transfer model validation in MATLAB with non-dimensionalized initial and temperature boundary conditions ](/static/assets/img/blog/pcmsim/608_2d_model_geom.JPG "2D model geometry for heat transfer model validation in MATLAB with non-dimensionalized initial and temperature boundary conditions")
-![Comparison of temperature variation along horizontal centerline for different grid sizes with analytical solution and simulation results of Cross et al at t=500s](/static/assets/img/blog/pcmsim/608_temp_plot.JPG "Grid independence test for 2D phase change heat transfer MATLAB model")
-{: .imside608}
+![2D model geometry for heat transfer model validation in COMSOL ](/static/assets/img/blog/nanoheat/nano_validation.jpg "2D model geometry for heat transfer model validation in COMSOL")
+![2D Hotspot geometry](/static/assets/img/blog/nanoheat/hotspot_geom.jpg "2D hotspot geometry")
+![2D Hotspot geometry](/static/assets/img/blog/nanoheat/ang_grid_refine.jpg "Angular grid refinement for BTE")
+
+
+{: .imsidenanohighlights}
 
 
 
@@ -103,19 +107,18 @@ Heat conduction equations for macroscale assume that the transport properties ar
 {: .alert .alert-info}
 
 
-1. Summer Undergraduate Research Report : [Viability of using Sodium and Potassium based salts as heat storage medium](https://github.com/yashg1/yashg1.github.io/blob/4c6fc517ba52d473385b2d00f4bb4f487842fae7/resources/pcmsim_ref/UGRI%20REPORT_college.pdf)
+1. ME 503 Project Report : [Modelling Hotspots in thin films using the Boltzmann Transport Equation](https://github.com/yashg1/yashg1.github.io/blob/4c6fc517ba52d473385b2d00f4bb4f487842fae7/resources/pcmsim_ref/UGRI%20REPORT_college.pdf)
 
 
 
 ## Skills
 {: .alert .alert-info}
 
+  - Developing Micro/nanoscale heat transport model in COMSOL
 
-* Comparing various CFD solution approaches
+* Running COMSOL simulations from MATLAB with [COMSOL MATLAB LiveLink](https://www.comsol.com/release/5.3/livelink-matlab)
 
-* Model validation and mesh refinement
+* Understanding and simplifying new physics (governing equations)
 
-* Developing 2D CFD solver in MATLAB
-
-* Enhancing heat transfer model capability in ANSYS FLUENT using UDF
+* Non-dimensionalizing new equations to compare with built-in equations
 {: .alert .alert-success}
