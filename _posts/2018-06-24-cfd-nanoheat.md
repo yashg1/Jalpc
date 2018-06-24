@@ -35,7 +35,6 @@ Collaborators: Aalok Gaitonde, Bhagyashree Ganore
 Advisor: Prof Timothy Fisher  
 
 Institute: Purdue University, USA
-Collaborators:
 
 
 </div>
@@ -72,7 +71,8 @@ Heat conduction equations for macroscale assume that the transport properties ar
 
 ## Objectives
 {: .alert .alert-info}
-1. Develop heat conduction simulation of micro/nanoscale heat transfe
+1. Develop heat conduction simulation of micro/nanoscale heat transfer
+
 2. Develop customizable phase change CFD simulation in MATLAB
 {: .alert .alert-warning}
 
