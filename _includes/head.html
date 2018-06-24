@@ -10,6 +10,9 @@
   {% endif %}
   <meta name="author" content="{{ site.author.name }}">
   <meta name="baseurl" content="{{ site.baseurl }}">
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
 
   <title>
     {% if page.title != "index" %}
