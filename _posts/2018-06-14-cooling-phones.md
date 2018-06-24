@@ -121,6 +121,7 @@ PCM Melt Front Propagation
 ## Skills
 {: .alert .alert-info}
 
+* Design space exploration
 
 * Thermal Design
 
