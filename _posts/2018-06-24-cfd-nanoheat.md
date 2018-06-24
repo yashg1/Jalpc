@@ -78,7 +78,7 @@ Heat conduction equations for macroscale assume that the transport properties ar
 
 * Simplified BTE to Radiative Transport Equation, which is solved in COMSOL
 
-* Demonstrated that Fourier heat conduction equation is not applicable  $$<\,10\,\micro\mathrm{m}$$ thickness
+* Demonstrated that Fourier heat conduction equation is not applicable  $$<\,10\,\mathrm{um}$$ thickness
 
 
 <style>
