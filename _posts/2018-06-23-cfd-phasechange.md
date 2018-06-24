@@ -17,14 +17,24 @@ icon: icon-html
 
 <style>
  .imside>img {
-    width:48%;
+    width:auto;
+    float:left;
     padding:0 5px;
   }
 </style>
 
+<style>
+ .imside2>img {
+    width:30%;
+    float:right;
+    padding:5 5px;
+  }
+</style>
+
 ![Table](/static/assets/img/blog/pcmsim/intro_table.JPG  "Details table")
+{: .imside}
 ![Liquid fraction contours of Gallium melting at t=180s in ANSYS FLUENT](/static/assets/img/blog/pcmsim/iitj_lfrac.jpg  "Liquid fraction contours of Gallium melting at t=180s in ANSYS FLUENT")
-{: .imside}  
+{: .imside2}
 
 </div>
 
@@ -48,11 +58,14 @@ Phase Change Materials (*Eg: Wax*) store a large amount of heat at almost consta
 In Concentrated Solar Power Plant (CSP), solar energy is concentrated via large array of mirrors that focus sunlight on to a Heat Transfer Fluid (HTF). At night, CSP are forced to undergo repeated startup and shut-down operations.
 > To avoid using fossil fuels, excess power generated during daytime can be stored using PCMs and utilized at off-peak times.
 
-Ideally, higher HTF temperatures are beneficial since more energy is stored. Typically, HTF used in CSP have melting points of ($$\approx\,390\,°mathrm{C} $$).
+Ideally, higher HTF temperatures are beneficial since more energy is stored. Typically, HTF used in CSP have melting points of ($$\approx\,390\,°\mathrm{C} $$).
 
-Summer Undergrad Research  | ME 608 Course Project  
---|--
-Feasibility study: molten salt as PCMs ($$ T_\mathrm{melting\,point}\,\approx\,500$$°C) for solar energy storage in ANSYS FLUENT  | Develop customizable phase change CFD simulation in MATLAB
+## Objectives
+{: .alert .alert-info}
+1. Feasibility study: molten salt as PCMs ($$ T_\mathrm{melting\,point}\,\approx\,500,°\mathrm{C}$$) for solar energy storage in ANSYS FLUENT
+2. Develop customizable phase change CFD simulation in MATLAB
+{: .alert .alert-warning}
+
 
 ## Highlights
 {: .alert .alert-info}
