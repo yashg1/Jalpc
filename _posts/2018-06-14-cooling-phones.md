@@ -19,13 +19,15 @@ icon: icon-html
 
 Course: MS Thesis Research  
 
-Duration: August 2014 - December 2016  
+Duration: August 2014 - December 2016
+
+Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Michael Woodworth, Claire Lang  
 
 Advisor: Prof. Amy Marconnet & John Howarter  
 
 Funding Agency: [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC)  
 
-Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Michael Woodworth, Claire Lang
+
 
 </div>
 
