@@ -28,7 +28,7 @@ icon: icon-html
 
 Course: ME503: Micro/Nano Scale Energy Transport Processes  
 
-Duration: August 2015 - December 2015
+Duration: August 2015 - December 2015  
 
 Collaborators: Aalok Gaitonde, Bhagyashree Ganore    
 
