@@ -17,7 +17,7 @@ icon: icon-html
 
 <style>
  .imside>img {
-    width:30%;
+    width:48%;
     padding:0 5px;
   }
 </style>
