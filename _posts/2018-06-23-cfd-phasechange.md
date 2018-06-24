@@ -49,7 +49,18 @@ icon: icon-html
     <td class="tg-yw4l">Purdue University, USA</td>
     <td class="tg-yw4l">Indian Institute of Technology,&nbsp;&nbsp;Jodhpur</td>
   </tr>
-</table> 
+</table>
+
+<style>
+ .imsidemagcoil>img {
+    width:30%;
+    float:right;
+    margin-left: 20px;
+  }
+</style>
+
+![Current density contours and magnetic field vector in ANSYS FLUENT](/static/assets/img/blog/cfdemag/magcoil.JPG  "Solving Maxwell's electromagnetic equations using UDF in FLUENT")
+{: .imsidemagcoil}  
 
 </div>
 
