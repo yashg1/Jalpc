@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cooling micro/nano-scale hotspots in processors in COMSOL"
+title:  "Cooling Micro/Nanoscale Hotspots in Processors using COMSOL"
 date:   2018-06-24
 desc: "Thermal simulation of PCB for electronics cooling in COMSOL"
 keywords: "CFD, Simulation, MATLAB, COMSOL, Boltzmann Transport Equation, Radiative Transport Equation, Hotspots, Electronics Cooling"
@@ -44,7 +44,7 @@ Collaborators:
 
 Electronic devices keep getting more powerful and smaller due to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law). Todays transistors are just 70 atoms wide (Silicon's atomic size is $$ \approx 2\,\mathrm{nm$$). Thermal considerations have significantly impact the reliability and performance. Heat conduction for such small lengths (micro/nanoscale) is different from the macroscale.
 
->**Fourier's heat conduction equation is not applicable to heat transfer at small length scales because the heat transport mechanism is different. Instead, Boltzmann Transport Equation (BTE) governs the heat transfer for these length scales.** BTE being a *7 dimensional equation, is difficult to solve numerically*. I solved the BTE in COMSOL (FEA solver) by simplifying it and comparing it with the [Radiative Transport Equation](https://www.comsol.com/heat-transfer-module#features), which is solved by COMSOL. 
+>**Fourier's heat conduction equation is not applicable to heat transfer at small length scales because the heat transport mechanism is different. Instead, Boltzmann Transport Equation (BTE) governs the heat transfer for these length scales.** BTE being a *7 dimensional equation, is difficult to solve numerically*. I solved the BTE in COMSOL (FEA solver) by simplifying it and comparing it with the [Radiative Transport Equation](https://www.comsol.com/heat-transfer-module#features), which is solved by COMSOL.
 
 Microscale effects in a thin layer inhibit heat flow from the hotspots in a processor (transistor) causing temperature peaks which can reduce the time to failure [^1]. A macroscale (Fourier) heat conduction model applied to a microscale does not capture microscale effects leading to a significant error and underprediction of temperatures in a processor.
 {: .alert .alert-danger}
@@ -89,7 +89,7 @@ Heat conduction equations for macroscale assume that the transport properties ar
 
 <style>
  .imsidenanohighlights>img {
-    width:30%;
+    width:25%;
     padding:0 5px;
   }
 </style>
@@ -107,7 +107,7 @@ Heat conduction equations for macroscale assume that the transport properties ar
 {: .alert .alert-info}
 
 
-1. ME 503 Project Report : [Modelling Hotspots in thin films using the Boltzmann Transport Equation](https://github.com/yashg1/yashg1.github.io/blob/4c6fc517ba52d473385b2d00f4bb4f487842fae7/resources/pcmsim_ref/UGRI%20REPORT_college.pdf)
+1. ME 503 Project Report : [Modelling Hotspots in thin films using the Boltzmann Transport Equation](https://github.com/yashg1/yashg1.github.io/blob/a835e87e1f467437dc75af64383b959f8dda45a4/resources/nanoheat_ref/Electronics%20Cooling%20Microscale%20Heat%20Transfer%20Project%20Report.pdf)
 
 
 

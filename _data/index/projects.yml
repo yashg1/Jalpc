@@ -1,26 +1,26 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Cooling smartphones using Phase Change Materials
+- name: Cooling Smartphones with Phase Change Materials
   url: https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html
   img: /static/assets/img/landing/mtec.png
-  desc: MS Thesis, Purdue University
+  desc: Thermal management strategy for smartphones
 
-- name: Build a Car for SAE BAJA
+- name: SAE BAJA
   img: /static/assets/img/landing/roadrunners.jpg
-  desc: Made an All-terrain vehicle (ATV)
+  desc: Designed and fabricated a car for a student-led racing competition
 
 - name: CFD simulation of Electromagnetic Stirring of Liquid Metals in ANSYS FLUENT
   url: https://yashg1.github.io/portfolio/2018/06/19/cfd-emag.html
   img: /static/assets/img/landing/google.png
-  desc: Solved Maxwell's Electromagnetic Equations in ANSYS FLUENT
+  desc: Maxwell's Electromagnetic Equations in ANSYS FLUENT
 
 - name: Heat Transfer Simulation of Phase Change in MATLAB & ANSYS FLUENT
   url: https://yashg1.github.io/portfolio/2018/06/23/cfd-phasechange.html
   img: /static/assets/img/landing/google.png
-  desc: Developed 2D CFD & Heat Transfer solver in MATLAB
+  desc: 2D CFD & Heat Transfer solver in MATLAB
 
 - name: Effect of micro/nano scale hotspots in PCB in COMSOL
-  url: https://google.com
+  url: https://yashg1.github.io/portfolio/2018/06/24/cfd-nanoheat.html
   img: /static/assets/img/landing/google.png
-  desc: Did CFD
+  desc: Micro/Nanoscale heat transfer in COMSOL
