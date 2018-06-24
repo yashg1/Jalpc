@@ -42,7 +42,7 @@ icon: icon-html
 ## Motivation
 {: .alert .alert-info}
 
-Phase Change Materials (*Eg: Wax*) store a large amount of heat at almost constant temperature near their melting points because of latent heat. This is very useful for applications which require cooling ([electronic devices](https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html), green buildings) or heat storage (concentrated solar power as shown below [^2]).
+Phase Change Materials (*Eg: Wax* ) store a large amount of heat at almost constant temperature near their melting points because of latent heat. This is very useful for applications which require cooling ([electronic devices](https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html), green buildings) or heat storage (concentrated solar power as shown below [^2]).
 
 [^2]: Figure from Mathur, A., et al. "Using encapsulated phase change salts for concentrated solar power plant." Energy Procedia 49 (2014): 908-915.
 

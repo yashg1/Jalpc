@@ -26,7 +26,7 @@ Collaborators: Zhenhuan Xu, Alex Bruce, Prahlad Kulkarni, Javieradrian Ruiz, Mic
 </div>
 
 
-## Motivation: Cooling Mobile Phones
+## Motivation
 {: .alert .alert-info}
 
 
