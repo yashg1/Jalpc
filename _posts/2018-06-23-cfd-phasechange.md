@@ -15,12 +15,41 @@ icon: icon-html
 
 <div class="panel-body">
 
-Topic  | CFD Simulation in MATLAB  |  CFD Simulation in ANSYS FLUENT
---|---|--
-Course  | ME608 - Numerical Methods in Heat Transfer  | Summer Undergraduate Research
-Duration  | January - May 2016  | May - July 2013  
-Advisor  | Prof Tim Fisher   | Prof Prodyut Chakraborty & Prof Laltu Chandra
-Institute  | Purdue University, USA   | Indian Institute of Technology, Jodhpur  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hbo{font-weight:bold;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-amwm">Method</th>
+    <th class="tg-amwm">MATLAB Programming</th>
+    <th class="tg-amwm">ANSYS FLUENT</th>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Course</td>
+    <td class="tg-yw4l">ME 608: Numerical Methods<br>in Heat Transfer<br></td>
+    <td class="tg-yw4l">Summer Undergraduate Research<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Duration</td>
+    <td class="tg-yw4l">January - May 2016</td>
+    <td class="tg-yw4l">May - July 2013<br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Advisor<br></td>
+    <td class="tg-yw4l">Prof Timothy Fisher</td>
+    <td class="tg-yw4l">Prof Prodyut Chakraborty &amp; <br>Prof Laltu Chandra<br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Institute</td>
+    <td class="tg-yw4l">Purdue University, USA</td>
+    <td class="tg-yw4l">Indian Institute of Technology,&nbsp;&nbsp;Jodhpur</td>
+  </tr>
+</table> 
 
 </div>
 
