@@ -40,6 +40,11 @@ icon: icon-html
     <td class="tg-yw4l">May - July 2013<br></td>
   </tr>
   <tr>
+    <td class="tg-9hbo">Collaborators</td>
+    <td class="tg-yw4l">Galen Jackson</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
     <td class="tg-9hbo">Advisor<br></td>
     <td class="tg-yw4l">Prof Timothy Fisher</td>
     <td class="tg-yw4l">Prof Prodyut Chakraborty &amp; <br>Prof Laltu Chandra<br></td>
@@ -59,7 +64,7 @@ icon: icon-html
   }
 </style>
 
-![Current density contours and magnetic field vector in ANSYS FLUENT](/static/assets/img/blog/cfdemag/magcoil.JPG  "Solving Maxwell's electromagnetic equations using UDF in FLUENT")
+![Liquid fraction contours of Gallium melting at t=180s in ANSYS FLUENT](/static/assets/img/blog/pcmsim/iitj_lfrac.jpg  "Liquid fraction contours of Gallium melting at t=180s in ANSYS FLUENT")
 {: .imsidemagcoil}  
 
 </div>
