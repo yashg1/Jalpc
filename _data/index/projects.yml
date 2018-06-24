@@ -20,7 +20,7 @@
   img: /static/assets/img/landing/google.png
   desc: 2D CFD & Heat Transfer solver in MATLAB
 
-- name: Effect of micro/nano scale hotspots in PCB in COMSOL
+- name: Cooling Micro/Nanoscale Hotspots in Processors using COMSOL
   url: https://yashg1.github.io/portfolio/2018/06/24/cfd-nanoheat.html
   img: /static/assets/img/landing/google.png
   desc: Micro/Nanoscale heat transfer in COMSOL

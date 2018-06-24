@@ -89,7 +89,7 @@ Heat conduction equations for macroscale assume that the transport properties ar
 
 <style>
  .imsidenanohighlights>img {
-    width:25%;
+    max-width:30%;
     padding:0 5px;
   }
 </style>
@@ -97,8 +97,6 @@ Heat conduction equations for macroscale assume that the transport properties ar
 ![2D model geometry for heat transfer model validation in COMSOL ](/static/assets/img/blog/nanoheat/nano_validation.jpg "2D model geometry for heat transfer model validation in COMSOL")
 ![2D Hotspot geometry](/static/assets/img/blog/nanoheat/hotspot_geom.jpg "2D hotspot geometry")
 ![2D Hotspot geometry](/static/assets/img/blog/nanoheat/ang_grid_refine.jpg "Angular grid refinement for BTE")
-
-
 {: .imsidenanohighlights}
 
 
