@@ -29,12 +29,30 @@ icon: icon-html
 </div>
 
 
-## Introduction
+## Motivation
 {: .alert .alert-info}
 
+Phase Change Materials (*Eg: Wax*) store a large amount of heat at almost constant temperature near their melting points because of latent heat. This is very useful for applications which require cooling ([electronic devices](https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html), green buildings) or heat storage (concentrated solar power as shown below [^2]).
 
+[^2]: Figure from Mathur, A., et al. "Using encapsulated phase change salts for concentrated solar power plant." Energy Procedia 49 (2014): 908-915.
 
+<style>
+ .imsidepcmcsp>img {
+    width:30%;
+    padding:0 5px;
+  }
+</style>
+![PCM used for Thermal Energy Storage in Concentrated Solar Power Plant](/static/assets/img/blog/pcmsim/pcm_csp.JPG "PCM used for Thermal Energy Storage in Concentrated Solar Power Plant")
+{: .imsidepcmcsp}
 
+In Concentrated Solar Power Plant (CSP), solar energy is concentrated via large array of mirrors that focus sunlight on to a Heat Transfer Fluid (HTF). At night, CSP are forced to undergo repeated startup and shut-down operations.
+> To avoid using fossil fuels, excess power generated during daytime can be stored using PCMs and utilized at off-peak times.
+
+Ideally, higher HTF temperatures are beneficial since more energy is stored. Typically, HTF used in CSP have melting points of ($$\approx\,390\,°mathrm{C} $$).
+
+Summer Undergrad Research  | ME 608 Course Project  
+--|--
+Feasibility study: molten salt as PCMs ($$ T_\mathrm{melting\,point}\,\approx\,500$$°C) for solar energy storage in ANSYS FLUENT  | Develop customizable phase change CFD simulation in MATLAB
 
 ## Highlights
 {: .alert .alert-info}
