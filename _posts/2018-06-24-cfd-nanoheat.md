@@ -69,14 +69,6 @@ Heat conduction equations for macroscale assume that the transport properties ar
 {: .imsidenano}
 
 
-## Objectives
-{: .alert .alert-info}
-1. Develop heat conduction simulation of micro/nanoscale heat transfer
-
-2. Develop customizable phase change CFD simulation in MATLAB
-{: .alert .alert-warning}
-
-
 ## Highlights
 {: .alert .alert-info}
 
