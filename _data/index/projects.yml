@@ -10,20 +10,15 @@
   img: /static/assets/img/landing/roadrunners.jpg
   desc: Made an All-terrain vehicle (ATV)
 
-- name: CFD simulation of Electromagnetic stirrer in ANSYS FLUENT
-  url: https://google.com
+- name: CFD simulation of Electromagnetic Stirring of Liquid Metals in ANSYS FLUENT
+  url: https://yashg1.github.io/portfolio/2018/06/19/cfd-emag.html
   img: /static/assets/img/landing/google.png
-  desc: Did CFD
+  desc: Solved Maxwell's Electromagnetic Equations in ANSYS FLUENT
 
-- name: CFD simulation of Solar Thermal Energy storage system in ANSYS FLUENT
-  url: https://google.com
+- name: Heat Transfer Simulation of Phase Change in MATLAB & ANSYS FLUENT
+  url: https://yashg1.github.io/portfolio/2018/06/23/cfd-phasechange.html
   img: /static/assets/img/landing/google.png
-  desc: Did CFD
-
-- name: CFD simulation of Electromagnetic stirring of liquid metals in ANSYS FLUENT
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: Did CFD
+  desc: Developed 2D CFD & Heat Transfer solver in MATLAB
 
 - name: Effect of micro/nano scale hotspots in PCB in COMSOL
   url: https://google.com
