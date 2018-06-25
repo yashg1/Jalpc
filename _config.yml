@@ -72,3 +72,5 @@ kramdown:
   math_engine: mathjax
   math_engine_opts:
     preview: true
+gems:
+  - jekyll-last-modified-at
