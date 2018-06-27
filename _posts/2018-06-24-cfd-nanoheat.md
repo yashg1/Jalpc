@@ -43,7 +43,7 @@ Institute: Purdue University, USA
 ## Motivation
 {: .alert .alert-info}
 
-Electronic devices keep getting more powerful and smaller due to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law). Todays transistors are just 70 atoms wide (Silicon's atomic size is $$ \approx 2\,\mathrm{nm$$). Thermal considerations have significantly impact the reliability and performance. Heat conduction for such small lengths (micro/nanoscale) is different from the macroscale.
+Electronic devices keep getting more powerful and smaller due to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law). Todays transistors are just 70 atoms wide (Silicon's atomic size is $$ \approx 2\,\mathrm{nm}$$). Thermal considerations have significantly impact the reliability and performance. Heat conduction for such small lengths (micro/nanoscale) is different from the macroscale.
 
 >**Fourier's heat conduction equation is not applicable to heat transfer at small length scales because the heat transport mechanism is different. Instead, Boltzmann Transport Equation (BTE) governs the heat transfer for these length scales.** BTE being a *7 dimensional equation, is difficult to solve numerically*. I solved the BTE in COMSOL (FEA solver) by simplifying it and comparing it with the [Radiative Transport Equation](https://www.comsol.com/heat-transfer-module#features), which is solved by COMSOL.
 
@@ -114,5 +114,3 @@ Heat conduction equations for macroscale assume that the transport properties ar
 
 * Non-dimensionalizing new equations to compare with built-in equations
 {: .alert .alert-success}
-
-{{ page.last_modified_at }}
