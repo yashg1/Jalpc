@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Cooling Smartphones with Phase Change Materials
   url: https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html
-  img: /static/assets/img/landing/mtec.png
-  desc: Thermal management strategy for smartphones
+  img: /static/assets/img/landing/msthesis_pro.jpg
+  desc: Thermal management solution for smartphones
 
 - name: BAJA SAE
   img: /static/assets/img/landing/car_pro.jpg

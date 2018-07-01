@@ -94,14 +94,15 @@ table{
 
 <style>
  .imsidemsthesishighlight>img {
-    width:30%;
+    width:22%;
     padding:0 5px;
   }
 </style>
 
 ![Measure thermal conductivity of TIM using IR camera and reference bar method](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg "Measure thermal conductivity of TIM using IR camera and reference bar method")
 ![IR surface temperatures of processor only and PCM on top of processor during thermal stress test](/static/assets/img/blog/msthesis/ir_surface_temps.jpg "IR surface temperatures of processor only and PCM on top of processor during thermal stress test")
-![3D system level heat transfer simulation of a smartphone in COMSOL ](/static/assets/img/blog/msthesis/sim_phone.jpg "3D system level heat transfer simulation of a smartphone in COMSOL")
+![Hardware thermal stress test setup](/static/assets/img/blog/msthesis/sbc_setup_image.jpg "Hardware thermal stress test setup")
+![3D system level heat transfer simulation of a smartphone in COMSOL ](/static/assets/img/blog/msthesis/simphone.jpg "3D system level heat transfer simulation of a smartphone in COMSOL")
 {: .imsidemsthesishighlight}
 
 PCM Melt Front Propagation
@@ -131,7 +132,7 @@ PCM Melt Front Propagation
 
 * Thermal Design
 
-* MATLAB programing to process raw temperature data ($$ \approx 1e6 $$ pixels)
+* MATLAB programing and scripting to extract and analyze data
 
 * 2D/3D heat transfer/CFD simulations in COMSOL, ANSYS ICEPAK
 
