@@ -6,9 +6,10 @@
   img: /static/assets/img/landing/mtec.png
   desc: Thermal management strategy for smartphones
 
-- name: SAE BAJA
+- name: BAJA SAE
   img: /static/assets/img/landing/roadrunners.jpg
-  desc: Designed and fabricated a car for a student-led racing competition
+  url: https://yashg1.github.io/portfolio/2018/06/30/baja.html
+  desc: Designed and built an off road vehicle for collegiate racing competition
 
 - name: CFD simulation of Electromagnetic Stirring of Liquid Metals in ANSYS FLUENT
   url: https://yashg1.github.io/portfolio/2018/06/19/cfd-emag.html
