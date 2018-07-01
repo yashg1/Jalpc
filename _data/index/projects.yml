@@ -7,21 +7,21 @@
   desc: Thermal management strategy for smartphones
 
 - name: BAJA SAE
-  img: /static/assets/img/landing/roadrunners.jpg
+  img: /static/assets/img/landing/car_pro.jpg
   url: https://yashg1.github.io/portfolio/2018/06/30/baja.html
   desc: Designed and built an off road vehicle for collegiate racing competition
 
 - name: CFD simulation of Electromagnetic Stirring of Liquid Metals in ANSYS FLUENT
   url: https://yashg1.github.io/portfolio/2018/06/19/cfd-emag.html
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/emag_pro.jpg
   desc: Maxwell's Electromagnetic Equations in ANSYS FLUENT
 
 - name: Heat Transfer Simulation of Phase Change in MATLAB & ANSYS FLUENT
   url: https://yashg1.github.io/portfolio/2018/06/23/cfd-phasechange.html
-  img: /static/assets/img/landing/google.png
-  desc: 2D CFD & Heat Transfer solver in MATLAB
+  img: /static/assets/img/landing/pcmsim_pro.jpg
+  desc: 2D CFD & Heat Transfer solver in MATLAB and ANSYS FLUENT
 
 - name: Cooling Micro/Nanoscale Hotspots in Processors using COMSOL
   url: https://yashg1.github.io/portfolio/2018/06/24/cfd-nanoheat.html
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/nanoheat_pro.jpg
   desc: Micro/Nanoscale heat transfer in COMSOL

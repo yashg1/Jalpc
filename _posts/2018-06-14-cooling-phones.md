@@ -36,7 +36,7 @@ Funding Agency: [Cooling Technologies Research Center](https://engineering.purdu
 {: .alert .alert-info}
 
 
-> Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor*) remain unchanged.
+> Electronic devices keep getting more powerful and smaller in size. The temperature limits for reliable operation of the materials used to make phones (*Ex: Silicon used in processor* ) remain unchanged.
 
 Cooling a mobile phone implies developing a thermal management solution with the following challenges:
 
@@ -93,16 +93,16 @@ table{
 * PCM thickness and convection heat transfer coefficient have the largest impact on the cutoff time
 
 <style>
- .imside>img {
+ .imsidemsthesishighlight>img {
     width:30%;
     padding:0 5px;
   }
 </style>
 
-![image 1](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg)
-![image 2](/static/assets/img/blog/msthesis/ir_surface_temps.jpg)
-![image 3](/static/assets/img/blog/msthesis/sim_phone.JPG)
-{: .imside}
+![Measure thermal conductivity of TIM using IR camera and reference bar method](/static/assets/img/blog/msthesis/cross_plane_rig_temp_map.jpg "Measure thermal conductivity of TIM using IR camera and reference bar method")
+![IR surface temperatures of processor only and PCM on top of processor during thermal stress test](/static/assets/img/blog/msthesis/ir_surface_temps.jpg "IR surface temperatures of processor only and PCM on top of processor during thermal stress test")
+![3D system level heat transfer simulation of a smartphone in COMSOL ](/static/assets/img/blog/msthesis/sim_phone.jpg "3D system level heat transfer simulation of a smartphone in COMSOL")
+{: .imsidemsthesishighlight}
 
 PCM Melt Front Propagation
 
