@@ -2501,9 +2501,9 @@ body {
   }
   .header-back {
     height: 100%;
-    background-size: auto;
+    background-size: fill;
     width: 100%;
-    background-position: 50% 25%;
+    background-position: 50% -10%;
     background-repeat:  no-repeat;
     position: absolute;
   }
