@@ -9,6 +9,9 @@ url: https://yashg1.github.io/ # url should be 'http://<github_username>.github.
 # url: http://127.0.0.1:4000
 img_path: /yashg1/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
+words_per_minute         : 160
+breadcrumbs              : false # true, false (default)
+
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Yash Ganatra # Be used at blog posts' author.
@@ -30,6 +33,7 @@ author:  # change following line to your infomation.
         Welcome to my e-portfolio! I am a persevering mechanical engineer who enjoys turning designs into products through efficient collaboration and programming. I love managing heat - currently, I develop products to measure heat using thermocouples.
         Previously, I worked on cooling smartphones and storing solar energy. In my free time, I learn Machine Learning and new languages (currently learning Mandarin: HSK Level 2).
         Also, I helped build my college's first BAJA SAE car in 2013.
+
 
 
 # comment
@@ -72,5 +76,31 @@ kramdown:
   math_engine: mathjax
   math_engine_opts:
     preview: true
-gems:
+
+# Plugins (previously gems:)
+plugins:
   - jekyll-last-modified-at
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
