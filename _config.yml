@@ -1,6 +1,7 @@
 # Welcome to Jekyll!
-
+#remote_theme: "mmistakes/so-simple-theme"
 # Website settings
+locale: "en-US"
 title: Yash Ganatra
 description: Mech on Github!
 keywords: yash,yashganatra, yashg1, blog,Thermal Engineer, Mechanical Engineer, Mechanical Engineer blog, Heat transfer, CFD, Product Development
@@ -73,6 +74,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  toc_levels:    1..6
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
   math_engine: mathjax
   math_engine_opts:
     preview: true
