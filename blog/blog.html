@@ -17,6 +17,12 @@ permalink: /blog/
 
             <!-- latest 10 blog -->
 			{% for post in site.posts limit:10 %}
+      {% if page.minutes %}
+        {% assign minutes = page.minutes %}
+      {% else %}
+        {% assign minutes = content | number_of_words | divided_by: 180 %}
+        {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+      {% endif %}
             <div class="vote-item">
                 <div class="row">
                     <div class="col-md-10">
@@ -29,7 +35,8 @@ permalink: /blog/
                         {% if site.disqus %}
                             <i class="fa fa-comments-o"> </i> <a>Comments (<span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
                         {% endif %}
-                            <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+                            <i class="fa fa-calendar-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+                            <i class="fa fa-clock-o"></i> {{ minutes }} minute read</span>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
                         </div>
                     </div>
@@ -45,4 +52,3 @@ permalink: /blog/
     </div>
 
 </div>
-
