@@ -24,7 +24,7 @@
     detail: August 2014 - December 2016
     i18n: company_b_date
   job:
-    detail: Education (MSME, minor: Computational Science)
+    detail: Education (MSME, minor":" Computational Science)
     i18n: company_b_job
   icon: fas fa-graduation-cap
 
@@ -80,6 +80,6 @@
     detail: May 2013 - July 2013
     i18n: company_f_date
   job:
-    detail: Summer Undergraduate Research 
+    detail: Summer Undergraduate Research
     i18n: company_f_job
   icon: fa-desktop
