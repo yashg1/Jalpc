@@ -11,8 +11,7 @@ url: https://yashg1.github.io/ # url should be 'http://<github_username>.github.
 # url: http://127.0.0.1:4000
 img_path: /yashg1/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
-words_per_minute         : 160
-breadcrumbs              : false # true, false (default)
+
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -70,6 +69,7 @@ sass:
 encoding: utf-8
 
 # other settings
+words_per_minute: 200
 timezone: America/New_York
 highlighter: rouge
 markdown: kramdown
