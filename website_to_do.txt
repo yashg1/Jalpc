@@ -1,4 +1,3 @@
-# MS Thesis
 1. Add alt text
 2. Image captioning, pos
 3. Fix links

@@ -26,7 +26,7 @@
   job:
     detail: MS in Mechanical Engineering (minor - Computational Science)
     i18n: company_b_job
-  icon: fas fa-user-graduate
+  icon: fas fa-graduation-cap
 
 - name:
     detail: Vellore Institute of Technology, Chennai, India
@@ -40,7 +40,7 @@
   job:
     detail: BS in Mechanical Engineering
     i18n: company_c_job
-  icon: fas fa-user-graduate
+  icon: fa-graduation-cap
 
 - name:
     detail: The RoadRunners
