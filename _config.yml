@@ -2,6 +2,7 @@
 #remote_theme: "mmistakes/so-simple-theme"
 # Website settings
 locale: "en-US"
+
 title: Yash Ganatra
 description: Mech on Github!
 keywords: yash,yashganatra, yashg1, blog,Thermal Engineer, Mechanical Engineer, Mechanical Engineer blog, Heat transfer, CFD, Product Development
@@ -69,6 +70,7 @@ sass:
 encoding: utf-8
 
 # other settings
+timezone: America/New_York
 highlighter: rouge
 markdown: kramdown
 kramdown:
