@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Syscon International, South Bend, Indiana - USA
+    detail: Product Engineer  @ Syscon International, USA
     i18n: company_a
   desc:
     detail: Develop temperature measurement systems for the Iron & Steel industry.
@@ -10,12 +10,12 @@
     detail: January 2017 - Present
     i18n: company_a_date
   job:
-    detail: "Product Engineer"
+    detail: Work
     i18n: company_a_job
   icon: fa-recycle
 
 - name:
-    detail:  Purdue University, West Lafayette, USA
+    detail:  Masters in Mechanical Engineering @ Purdue University, USA
     i18n: company_b
   desc:
     detail: Thesis Research - Cooling smartphones using Phase Change Materials
@@ -24,12 +24,12 @@
     detail: August 2014 - December 2016
     i18n: company_b_date
   job:
-    detail: MS in Mechanical Engineering (minor - Computational Science)
+    detail: Education (MSME, minor: Computational Science)
     i18n: company_b_job
   icon: fas fa-graduation-cap
 
 - name:
-    detail: Vellore Institute of Technology, Chennai, India
+    detail: Undergrad in Mechanical Engineering @ Vellore Institute of Technology, India
     i18n: company_c
   desc:
     detail: Undergrad
@@ -38,26 +38,26 @@
     detail: August 2010 - June 2014
     i18n: company_c_date
   job:
-    detail: BS in Mechanical Engineering
+    detail: Education (BTech)
     i18n: company_c_job
   icon: fa-graduation-cap
 
 - name:
-    detail: The RoadRunners
+    detail: Powertrain Engineer @ The RoadRunners
     i18n: company_d
   desc:
-    detail: Built an all-terrain vehicle for SAE BAJA, a student-led racing competition
+    detail: Off-road vehicle for SAE BAJA, a student-led racing competition
     i18n: company_d_desc
   date:
     detail: August 2010 - June 2014
     i18n: company_d_date
   job:
-    detail: Transmission, Welding, Fundraising
+    detail: Undergraduate student project
     i18n: company_d_job
   icon: fa-car
 
 - name:
-    detail: Indian Institute of Science, Bangalore - India
+    detail: Undergrad Research Intern @ Indian Institute of Science, Bangalore
     i18n: company_e
   desc:
     detail: CFD simulation of Electromagnetic Strirrer for Continuous Casting
@@ -66,12 +66,12 @@
     detail: January 2014 - June 2014
     i18n: company_e_date
   job:
-    detail: Undergrad Thesis Project
+    detail: Undergrad Thesis
     i18n: company_e_job
   icon: fa-desktop
 
 - name:
-    detail: Indian Institute of Technology, Jodhpur - India
+    detail: Undergrad Research Intern @ Indian Institute of Technology, Jodhpur - India
     i18n: company_f
   desc:
     detail: CFD simulation of Solar Thermal Energy Storage using Phase Change Materials
@@ -80,6 +80,6 @@
     detail: May 2013 - July 2013
     i18n: company_f_date
   job:
-    detail: Summer Undergraduate Research Fellow
+    detail: Summer Undergraduate Research 
     i18n: company_f_job
   icon: fa-desktop

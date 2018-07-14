@@ -76,8 +76,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  toc_levels:    1..6
-  smart_quotes:  lsquo,rsquo,ldquo,rdquo
   math_engine: mathjax
   math_engine_opts:
     preview: true
