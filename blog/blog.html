@@ -17,12 +17,12 @@ permalink: /blog/
 
             <!-- latest 10 blog -->
 			{% for post in site.posts limit:10 %}
-      {% if page.minutes %}
-        {% assign minutes = page.minutes %}
-      {% else %}
-        {% assign minutes = content | number_of_words | divided_by: 180 %}
-        {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-      {% endif %}
+        {% if page.minutes %}
+          {% assign minutes = page.minutes %}
+        {% else %}
+          {% assign minutes = content | number_of_words | divided_by: 180 %}
+          {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+        {% endif %}
             <div class="vote-item">
                 <div class="row">
                     <div class="col-md-10">
