@@ -37,15 +37,13 @@
             <h4><span class="navy">{{ link.last_name }}</span></h4>
             <h4>{{ link.desc }}</h4>
             <ul class="list-inline social-icon">
-                <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
-                </li>
-                <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
-                </li>
-                <li><a href="https://saythanks.io/to/yashg1">
-                <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
-                </a>
-                </li>
+            <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
+            </li>
             </ul>
+            <li><a href="https://saythanks.io/to/yashg1">
+            <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+            </a>
+            </li>
             {% endif %}
             <!-- Contact Me ends -->
             {% if link.desc %}
