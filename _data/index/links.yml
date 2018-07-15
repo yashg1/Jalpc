@@ -1,8 +1,8 @@
 # links section data
 - last_name: Hobbies
   hobby_icon:
-    - name: fa-car
-    - name: fa-cogs
+    - name: far fa-futbol
+    - name: fas fa-book
     - name: fas fa-film
     - name: fas fa-language
 

@@ -29,12 +29,11 @@ author:  # change following line to your infomation.
     - name: fa-car
   skill_icon2:
     - name: fa-cogs
-    - name: fa-industry
+    - name: fas fa-wrench
   desc: |
         **Welcome to my e-portfolio! I am a persevering and multifaceted mechanical engineer who :heartpulse: turning designs into products through efficient collaboration.
           With experience in CAD, heat transfer, CFD, programing and hardware testing/troubleshooting, I can take on challenging roles. My goal is to excel at problem solving from multiple points of view (engineering, economic and people).
-
-        I like to keep learning and playing with the greatest and latest. Also, I helped build a :car:!. I love :soccer:, :book: and :pencil:. **
+          I like to keep learning and playing with the greatest and latest. Also, I helped build a :car:!. I love :soccer:, :book: and :pencil: . **
 
 
 
