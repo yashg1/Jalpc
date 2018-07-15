@@ -25,18 +25,18 @@
             {% if link.last_name == 'Hobbies' %}
             {% for icon in link.hobby_icon %}
             <div class="col-xs-4">
-              <ul class="vote-icon" style="text-align: center">
+              <ul class="icon-link" style="text-align: center">
                 <i class="fa {{ icon.name }}"></i>
               </ul>
             </div>
             {% endfor %}
             {% endif %}
             <!-- Hobbies special end -->
-            {% if link.icon %}
-            <i class="fa {{ link.icon }}"></i>
-            {% endif %}
             {% if link.desc %}
             <h4>{{ link.desc }}</h4>
+            {% endif %}
+            {% if link.icon %}
+            <i class="fa {{ link.icon }}"></i>
             {% endif %}
             {% if link.website %}
             <ul class="list-inline social-icon">
