@@ -46,13 +46,13 @@
     detail: Powertrain Engineer @ The RoadRunners
     i18n: company_d
   desc:
-    detail: Off-road vehicle for SAE BAJA, a student-led racing competition
+    detail: Built an off-road vehicle for SAE BAJA, a student-led racing competition
     i18n: company_d_desc
   date:
     detail: August 2010 - June 2014
     i18n: company_d_date
   job:
-    detail: Undergraduate project
+    detail: Undergraduate Project
     i18n: company_d_job
   icon: fa-car
 
