@@ -24,9 +24,11 @@
             <!-- Hobbies special start -->
             {% if link.last_name == 'Hobbies' %}
             {% for icon in link.hobby_icon %}
-            <ul class="list-inline social-icon">
-              <li><i class="fa {{ icon.name }}"></i></li>
-            </ul>
+            <div class="col-xs-4">
+              <ul class="list-inline social-icon">
+                <li><i class="fa {{ icon.name }}"></i></li>
+              </ul>
+            </div>
             {% endfor %}
             {% endif %}
             <!-- Hobbies special end -->
@@ -34,7 +36,7 @@
             <i class="fa {{ link.icon }}"></i>
             {% endif %}
             {% if link.desc %}
-            <p>{{ link.desc }}</p>
+            <p><strong>{{ link.desc }}<strong></p>
             {% endif %}
             {% if link.website %}
             <ul class="list-inline social-icon">
