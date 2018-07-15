@@ -1,12 +1,14 @@
 # links section data
 - last_name: Hobbies
-  icon: fas fa-book-open
+  hobby_icon:
+    - name: fas fa-book-open
+    - name: fas fa-futbol
+    - name: fas fa-film
+    - name: fas fa-language
 
 - last_name: Yash  Ganatra
   desc: Want to get in touch? Have questions? or just say Hello! I would love to hear from you.
   email: gyash@protonmail.com
-  icon: fas fa-address-card
 
-- last_name: Kun Jia
-  desc: Theme by Kun Jia.
+- desc: Theme by Kun Jia.
   website: http://www.jarrekk.com/

@@ -18,7 +18,17 @@
         <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
         {% endif %}
         <div class="team-member">
+            {% if link.last_name %}
             <h4><span class="navy">{{ link.last_name }}</span></h4>
+            {% endif %}
+            <!-- Hobbies special start -->
+            {% if link.last_name == 'Hobbies' %}
+            {% for icon in link.hobby_icon %}
+            <ul class="list-inline social-icon">
+            <li><i class="fa {{ icon.name }}"></i></li>
+            {% endfor %}
+            {% endif %}
+            <!-- Hobbies special end -->
             {% if link.icon %}
             <i class="fa {{ link.icon }}"></i>
             {% endif %}

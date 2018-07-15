@@ -24,7 +24,7 @@
     detail: August 2014 - December 2016
     i18n: company_b_date
   job:
-    detail: Education (MSME, minor":" Computational Science)
+    detail: Education (minor in Computational Science)
     i18n: company_b_job
   icon: fas fa-graduation-cap
 
@@ -32,7 +32,7 @@
     detail: Undergrad in Mechanical Engineering @ Vellore Institute of Technology, India
     i18n: company_c
   desc:
-    detail: 
+    detail:
     i18n: company_c_desc
   date:
     detail: August 2010 - June 2014
@@ -52,7 +52,7 @@
     detail: August 2010 - June 2014
     i18n: company_d_date
   job:
-    detail: Undergraduate student project
+    detail: Undergraduate project
     i18n: company_d_job
   icon: fa-car
 
@@ -66,7 +66,7 @@
     detail: January 2014 - June 2014
     i18n: company_e_date
   job:
-    detail: Undergrad Thesis
+    detail: Undergrad Thesis Research
     i18n: company_e_job
   icon: fa-desktop
 
@@ -80,6 +80,6 @@
     detail: May 2013 - July 2013
     i18n: company_f_date
   job:
-    detail: Summer Undergraduate Research
+    detail: Research
     i18n: company_f_job
   icon: fa-desktop
