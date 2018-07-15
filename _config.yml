@@ -18,7 +18,7 @@ author:  # change following line to your infomation.
   name: Yash Ganatra # Be used at blog posts' author.
   first_name: Yash  # Be used at index page about me section.
   last_name: Ganatra  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar_updated.jpg  # upload your avatar at directory and edit it.
   github_username: yashg1  # Leave blank if you don't have now
   linkedin_id: yashganatra # Leave blank if you don't have now
   email: gyash@protonmail.com   # Leave blank if you don't have now
@@ -32,7 +32,7 @@ author:  # change following line to your infomation.
     - name: fas fa-wrench
   desc: |
         Welcome to my website! I am a persevering and multifaceted mechanical engineer who enjoys turning designs into products through efficient collaboration.
-        With experience in CAD, heat transfer, CFD, programing and hardware testing/troubleshooting, I can take on challenging roles. I like to keep learning and playing with the greatest and latest. Also, I helped build a car!. 
+        With experience in CAD, heat transfer, CFD, programing and hardware testing/troubleshooting, I can take on challenging roles. I like to keep learning and playing with the greatest and latest. Also, I helped build a car!.
         I love soccer,  learning languages and reading.
 
 
