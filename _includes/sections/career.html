@@ -17,7 +17,7 @@
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail | markdownify }}</span></h2>
                         <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail | markdownify }} </span></p>
-                        <span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
+                        <span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail | markdownify }} </span>
                         <br/> <small><span data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail | markdownify }}</span></small> </span>
                     </div>
                 </div>

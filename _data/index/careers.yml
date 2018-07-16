@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Product Engineer  @ Syscon International, USA
+    detail: Product Engineer  @ [Syscon International, USA](http://syscon-intl.com/)
     i18n: company_a
   desc:
     detail: Develop temperature measurement systems for the Iron & Steel industry.
@@ -15,7 +15,7 @@
   icon: fa-recycle
 
 - name:
-    detail:  Masters in Mechanical Engineering @ Purdue University, USA
+    detail:  Masters in Mechanical Engineering @ [Purdue University, USA](https://www.purdue.edu/)
     i18n: company_b
   desc:
     detail: Thesis Research - Cooling smartphones using Phase Change Materials. [Read more..](https://yashg1.github.io/portfolio/2018/06/14/cooling-phones.html)
@@ -29,7 +29,7 @@
   icon: fas fa-graduation-cap
 
 - name:
-    detail: Undergrad in Mechanical Engineering @ Vellore Institute of Technology, India
+    detail: Undergrad in Mechanical Engineering @ [Vellore Institute of Technology, India](http://chennai.vit.ac.in/)
     i18n: company_c
   desc:
     detail:
@@ -43,7 +43,7 @@
   icon: fa-graduation-cap
 
 - name:
-    detail: Powertrain Engineer @ The RoadRunners
+    detail: Powertrain Engineer @ [The RoadRunners](http://www.theroadrunners.co.in/about)
     i18n: company_d
   desc:
     detail: Built an off-road vehicle for BAJA SAE [Read more..](https://yashg1.github.io/portfolio/2018/06/30/baja.html)
@@ -57,7 +57,7 @@
   icon: fa-car
 
 - name:
-    detail: Undergrad Research Intern @ Indian Institute of Science, Bangalore
+    detail: Undergrad Research Intern @ [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/)
     i18n: company_e
   desc:
     detail: CFD simulation of Electromagnetic Strirrer in ANSYS FLUENT. [Read more..](https://yashg1.github.io/portfolio/2018/06/19/cfd-emag.html)
@@ -71,7 +71,7 @@
   icon: fa-desktop
 
 - name:
-    detail: Undergrad Research Intern @ Indian Institute of Technology, Jodhpur - India
+    detail: Undergrad Research Intern @ [Indian Institute of Technology, Jodhpur](http://www.iitj.ac.in/)
     i18n: company_f
   desc:
     detail: Solar Thermal Energy Storage using Phase Change Materials. [Read more..](https://yashg1.github.io/portfolio/2018/06/23/cfd-phasechange.html)

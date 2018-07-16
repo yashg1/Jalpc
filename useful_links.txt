@@ -13,3 +13,7 @@ https://www.brunel.ac.uk/__data/assets/pdf_file/0006/295143/Semi-solid-metal-pro
 http://www.foundrymag.com/meltpour/benefits-semi-solid-casting-aluminum-alloys
 http://blog.totalmateria.com/the-rheo-casting-process/
 http://www.foundrymag.com/feature/semi-solid-rheocasting-moves-commercial-production
+
+
+https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar
+http://denisecase.github.io/2015/07/10/add-calender-to-site/
