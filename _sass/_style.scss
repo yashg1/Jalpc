@@ -73,7 +73,7 @@ h3, h4, h5 {
 
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
-    background-color: #f3f3f4;
+    background-color: transparent;
   }
 }
 
@@ -175,7 +175,7 @@ h3, h4, h5 {
 }
 
 .navbar-fixed-top {
-  transition-duration: .4s;
+  position: fixed;
   border-bottom: 1px solid #e7eaec !important;
   z-index: 2030;
   background: #f3f3f4;
