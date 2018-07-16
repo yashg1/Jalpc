@@ -175,7 +175,7 @@ h3, h4, h5 {
 }
 
 .navbar-fixed-top {
-  position: fixed;
+  transition-duration: .4s;
   border-bottom: 1px solid #e7eaec !important;
   z-index: 2030;
   background: #f3f3f4;
