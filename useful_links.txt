@@ -17,3 +17,5 @@ http://www.foundrymag.com/feature/semi-solid-rheocasting-moves-commercial-produc
 
 https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar
 http://denisecase.github.io/2015/07/10/add-calender-to-site/
+
+https://www.npmjs.com/package/jsonresume-theme-cvstrap
