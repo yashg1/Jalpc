@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Yash Ganatra",
+    "label": "Mechanical Engineer",
+    "picture": "",
+    "email": "gyash@protonmail.com",
+    "phone": "(765) 609-180",
+    "website": "https://yashg1.github.io",
+    "summary": "Versatile engineer with a mission to enable customer success. Experienced in executing product development cycles, mechanical design, developing test plans, providing technical support and training sales team for manufacturing, automotive and semiconductor industries.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Mishawaka",
+      "countryCode": "US",
+      "region": "Indiana"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Syscon International",
+      "position": "Product Engineer",
+      "website": "https://syscon-intl.com",
+      "startDate": "2017-02-20",
+      "endDate" : "",
+      "summary": "Leads product development to make thermocouple based temperature measurement systems for high temperatures (2000-3000°F)",
+      "highlights": [
+        "Develop product technical specifications from customer and sales team feedback",
+        "Test and troubleshoot prototypes to recommend design improvements",
+        "Define and oversee execution of performance validation tests",
+        "Vendor/OEM define specifications and ensure conformance to quality standards"
+      ]
+    },
+    {
+      "company": "Qualcomm / Purdue University",
+      "position": "Thermal Engineer ",
+      "website": "https://bit.ly/2Nm4cXW",
+      "startDate": "2014-08-30",
+      "endDate": "2016-12-06",
+      "summary": "(Masters Thesis) Feasibility study of cooling smartphones using Phase Change Materials (PCMs)",
+      "highlights": [
+        "Demonstrated that PCMs signifcantly lower max processor temperatures (1.5-3x)",
+        "Setup hardware thermal testing and develop heat transfer simulations in COMSOL and ANSYS",
+        "Publish and present technical reports, presentations and research papers",
+        "Analyzed critical parameters and optimize design"
+      ]
+    },
+    {
+      "company": "Designed and built a car for BAJA SAE India competition",
+      "position": "Transmission Engineer",
+      "website": "https://bit.ly/2NpnvQg",
+      "startDate": "2012-02-01",
+      "endDate": "2014-05-01",
+      "summary": "(Undergrad project) Wear multiple hats to build an off road vehicle",
+      "highlights": [
+        "Setup the first collegiate to participate in BAJA SAE India",
+        "Tranmission system design in SoldiWorks CAD ",
+        "Static and dymnamic FEA analysis in SolidWorks Simulation and verification with empirical calculations",
+        "Mentored incoming team members, coordinate logisitics and fundraising"
+      ]
+    },
+    {
+      "company": "Heat Transfer Simulation of Phase Change in MATLAB & ANSYS FLUENT",
+      "position": "Multiple Projects (Undergrad and Grad school)",
+      "website": "https://bit.ly/2mqmrQD",
+      "startDate": "2016-01-01",
+      "endDate": "2016-05-01",
+      "summary": "Developed customizable and robust phase change CFD simulation model",
+      "highlights": [
+        "Continually expand knowledge of CAE (FEA/CFD) and CAD in ANSYS and SolidWorks",
+        "Expand model capability by writing C program scripts (UDF) in ANSYS FLUENT",
+        "Developed 2D CFD solver from first principles in MATLAB"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Tecumseh Junior High School, Lafayette",
+      "position": "Teacher",
+      "website": "",
+      "startDate": "2015-08-16",
+      "endDate": "2015-12-01",
+      "summary": "Make learning fun and more relatable",
+      "highlights": [
+        "Facilitate better understanding of energy conversion through hands on experiments and examples"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University, USA (GPA: 3.71/5)",
+      "area": "Mechanical Engineering",
+      "studyType": "Masters",
+      "startDate": "2014-08-16",
+      "endDate": "2016-12-06",
+      "courses": [
+        "Adv. Heat Transfer / CFD",
+        "Two Phase Flows"
+      ]
+    },
+    {
+      "institution": "Vellore Institute of Technology, India",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2010-08-16",
+      "endDate": "2014-06-01",
+      "gpa": "9.03/10",
+      "courses": [
+        "Mechanical Design",
+        "FEA",
+        "CAD/CAM"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Experimental investigation of Phase Change Materials for thermal management of handheld devices",
+      "publisher": "Intl. Journal of Thermal Sciences (2018)",
+      "releaseDate": "",
+      "website": "https://doi.org/10.1016/j.ijthermalsci.2018.03.012",
+      "summary": "Hardware thermal testing to quantify usefulness of PCMs in cooling smartphones."
+    },
+    {
+      "name": "Experimental Evaluation of Thermal Resistances of Phase Change Materials",
+      "publisher": "ASME InterPack (2016)",
+      "releaseDate": "",
+      "website": "https://bit.ly/2zMa9eL",
+      "summary": "Characterize thermal resistance of PCMs using IR camera and reference bar method (ASTM D5470 standard)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Heat Transfer",
+      "level": "advanced",
+      "keywords": [
+        "Thermal design, testing",
+        "What-If analysis",
+        "Temperature measurement"
+      ]
+    },
+    {
+      "name": "CFD",
+      "level": "advanced",
+      "keywords": [
+        "ANSYS FLUENT",
+        "COMSOL",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "FEA",
+      "level": "advanced",
+      "keywords": [
+        "ANSYS mechanical",
+        "SolidWorks Simulation"
+      ]
+    },
+    {
+      "name": "CAD",
+      "level": "advanced",
+      "keywords": [
+        "SolidWorks",
+        "Bill of Materials (BOM)"
+      ]
+    },
+    {
+      "name": "Product Development",
+      "level": "intermediate",
+      "keywords": [
+        "Market research",
+        "Prototype testing",
+        "Technical support"
+      ]
+    },
+    {
+      "name": "Programing",
+      "level": "intermediate",
+      "keywords": [
+        "MATLAB: Machine Learning, Data analysis",
+        "Python: Numpy, Scipy, Matplotlib",
+        "Bash scripting, Code optimization"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
