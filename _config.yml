@@ -22,7 +22,7 @@ author:  # change following line to your infomation.
   github_username: yashg1  # Leave blank if you don't have now
   linkedin_id: yashganatra # Leave blank if you don't have now
   email: gyash@protonmail.com   # Leave blank if you don't have now
-  cv: http://htmlpreview.github.io/?https://github.com/yashg1/yashg1.github.io/blob/d8074db8e2919500f7ff593f352a12b261ac68cd/resources/resume/resume.html   # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://github.com/yashg1/yashg1.github.io/blob/dcab34b0b0d61860d58c1ff44d3d188b8370608e/resources/resume/Yash_Ganatra_resume.pdf   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-fire
