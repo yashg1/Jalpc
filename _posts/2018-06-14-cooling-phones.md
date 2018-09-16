@@ -46,7 +46,7 @@ Cooling a mobile phone implies developing a thermal management solution with the
 
 3. Heat transfer to the ambient is limited by natural convection. In other words, the phone is not used in a "windy" environment.
 
-4. [Many interactive smartphone applications have a short burst of excess power consumption followed by an idle time waiting for user inputs](www.scientificamerican.com/article/computational-sprinting/). Keeping the processor temperature within operating limits goes a long way in ensuring a responsive user interface (*preventing lags*).
+4. [Many interactive smartphone applications have a short burst of excess power consumption followed by an idle time waiting for user inputs](https://www.scientificamerican.com/article/computational-sprinting/). Keeping the processor temperature within operating limits goes a long way in ensuring a responsive user interface (*preventing lags*).
 
 ## Why Phase Change materials
 {: .alert .alert-info}
