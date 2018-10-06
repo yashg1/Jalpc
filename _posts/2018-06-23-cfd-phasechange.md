@@ -104,7 +104,7 @@ Thermal energy is stored when the PCMs in the storage tank shown above melt.  Id
 
 1. Summer Undergraduate Research Report : [Viability of using Sodium and Potassium based salts as heat storage medium](https://github.com/yashg1/yashg1.github.io/blob/4c6fc517ba52d473385b2d00f4bb4f487842fae7/resources/pcmsim_ref/UGRI%20REPORT_college.pdf)
 
-2. Numerical Methods in Heat and Mass Transfer Project Report: [Modeling of soldi-liquid phase change using Enthalpy Porosity Technique](https://github.com/yashg1/yashg1.github.io/blob/4c6fc517ba52d473385b2d00f4bb4f487842fae7/resources/pcmsim_ref/ME%20608%20Final%20report%20group%205.pdf)
+2. Numerical Methods in Heat and Mass Transfer Project Report: [Modeling of phase change heat transfer using Enthalpy Porosity Technique](https://github.com/yashg1/yashg1.github.io/blob/4c6fc517ba52d473385b2d00f4bb4f487842fae7/resources/pcmsim_ref/ME%20608%20Final%20report%20group%205.pdf)
 
 
 ## Skills
