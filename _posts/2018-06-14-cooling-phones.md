@@ -82,7 +82,7 @@ table{
 | -------------- + ------------------ |
 |  What are the critical material properties?         |    {::nomarkdown}<ul><li> Thermal conductivity </li><li> Latent Heat </li>     <li> Melting Point (Transition Temperature) </li></ul>{:/} Characterized thermal conductivity using reference bar method (*ASTM D5470 standard*) with Infra-Red (IR) camera       |
 | -------------- + ------------------ |
-|How do they influence the key design parameters?| Analyzed the effect of material properties, PCM weight and integration location on the cutoff time by       {::nomarkdown} <ul><li> Performing stress tests with PCM on the processor of a Thermal Test Vehicle   </li><li> Developed phone and processor level heat transfer simulations in COMSOL & ANSYS ICEPAK </li> <li> Performed Uncertainty Ananlysis (Parametric sweep) to determine critical properties </li> </ul> {:/}|
+|How do they influence the key design parameters?| Analyzed the effect of material properties, PCM weight and integration location on the cutoff time by       {::nomarkdown} <ul><li> Performing stress tests with PCM on the processor of a Thermal Test Vehicle   </li><li> Developed phone and processor level heat transfer simulations in COMSOL & ANSYS ICEPAK </li> <li> Performed Uncertainty Analysis (Parametric sweep) to determine critical properties </li> </ul> {:/}|
 
 ## Highlights
 {: .alert .alert-info}
