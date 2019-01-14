@@ -12,7 +12,7 @@
   job:
     detail: Work
     i18n: company_b_job
-  icon: fa-amazon
+  icon: fab fa-amazon
 
 - name:
     detail: Product Engineer  @ [Syscon International, USA](http://syscon-intl.com/)
