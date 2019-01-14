@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Thermal Engineer  @ [Amazon Lab126, USA](https://amazon.jobs/en/teams/lab126)
+    i18n: company_a
+  desc:
+    detail: Thermal testing and validation for consumer electronics.
+    i18n: company_b_desc
+  date:
+    detail: December 2018 - Present
+    i18n: company_b_date
+  job:
+    detail: Work
+    i18n: company_b_job
+  icon: fa-amazon
+
+- name:
     detail: Product Engineer  @ [Syscon International, USA](http://syscon-intl.com/)
     i18n: company_a
   desc:
