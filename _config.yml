@@ -107,3 +107,5 @@ defaults:
       read_time: true
       share: true
       related: true
+
+theme: jekyll-theme-midnight
